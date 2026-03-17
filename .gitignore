@@ -1,0 +1,17 @@
+# Rfam databases (too large for GitHub)
+rfam/
+
+# Large sequence files
+*.fa
+*.fna
+*.fasta
+
+# Large cmscan full output
+*_cmscan_full.out
+
+# Temporary chunk files
+scaffold00000_chunks/
+
+# Log files
+*.log
+ncrna_pipeline.log

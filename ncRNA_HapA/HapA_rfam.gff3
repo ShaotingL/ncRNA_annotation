@@ -1,0 +1,436 @@
+##gff-version 3
+VANPL_A_00001	cmscan	ncRNA	17243183	17243392	152.2	+	.	ID=ncRNA_000001;Name=Plant_U3;rfam_acc=RF01847;clan=CL00100;score=152.2;evalue=7.1e-39;description=Plant small nucleolar RNA U3
+VANPL_A_00001	cmscan	snRNA	25211961	25212156	171.5	+	.	ID=snRNA_000002;Name=U2;rfam_acc=RF00004;clan=CL00006;score=171.5;evalue=7.5e-34;description=U2 spliceosomal RNA
+VANPL_A_00001	cmscan	snRNA	9626746	9626942	168.5	+	.	ID=snRNA_000003;Name=U2;rfam_acc=RF00004;clan=CL00006;score=168.5;evalue=4e-33;description=U2 spliceosomal RNA
+VANPL_A_00001	cmscan	miRNA	40787362	40787557	145.1	-	.	ID=miRNA_000004;Name=MIR159;rfam_acc=RF00638;clan=-;score=145.1;evalue=6.5e-30;description=MIR159 microRNA precursor family
+VANPL_A_00001	cmscan	snRNA	16644646	16644805	127.1	+	.	ID=snRNA_000005;Name=U1;rfam_acc=RF00003;clan=CL00005;score=127.1;evalue=1.6e-29;description=U1 spliceosomal RNA
+VANPL_A_00001	cmscan	snRNA	28110964	28111123	121.4	-	.	ID=snRNA_000006;Name=U1;rfam_acc=RF00003;clan=CL00005;score=121.4;evalue=7e-28;description=U1 spliceosomal RNA
+VANPL_A_00001	cmscan	snRNA	51567813	51567915	113.1	+	.	ID=snRNA_000007;Name=U6;rfam_acc=RF00026;clan=CL00009;score=113.1;evalue=1.6e-26;description=U6 spliceosomal RNA
+VANPL_A_00001	cmscan	snRNA	53267939	53268041	113.1	+	.	ID=snRNA_000008;Name=U6;rfam_acc=RF00026;clan=CL00009;score=113.1;evalue=1.6e-26;description=U6 spliceosomal RNA
+VANPL_A_00001	cmscan	snRNA	53480651	53480753	113.1	+	.	ID=snRNA_000009;Name=U6;rfam_acc=RF00026;clan=CL00009;score=113.1;evalue=1.6e-26;description=U6 spliceosomal RNA
+VANPL_A_00001	cmscan	snRNA	9626474	9626625	109.0	-	.	ID=snRNA_000010;Name=U4;rfam_acc=RF00015;clan=CL00007;score=109.0;evalue=1.3e-21;description=U4 spliceosomal RNA
+VANPL_A_00001	cmscan	snRNA	53263769	53263870	93.3	-	.	ID=snRNA_000011;Name=U6;rfam_acc=RF00026;clan=CL00009;score=93.3;evalue=1.7e-20;description=U6 spliceosomal RNA
+VANPL_A_00001	cmscan	snRNA	4133650	4133751	92.9	+	.	ID=snRNA_000012;Name=U6;rfam_acc=RF00026;clan=CL00009;score=92.9;evalue=2.2e-20;description=U6 spliceosomal RNA
+VANPL_A_00001	cmscan	snRNA	46243649	46243789	104.0	-	.	ID=snRNA_000013;Name=U4;rfam_acc=RF00015;clan=CL00007;score=104.0;evalue=2.7e-20;description=U4 spliceosomal RNA
+VANPL_A_00001	cmscan	miRNA	40787364	40787559	105.1	+	.	ID=miRNA_000014;Name=MIR159;rfam_acc=RF00638;clan=-;score=105.1;evalue=1.1e-19;description=MIR159 microRNA precursor family
+VANPL_A_00001	cmscan	snRNA	53281872	53281978	85.0	+	.	ID=snRNA_000015;Name=U6;rfam_acc=RF00026;clan=CL00009;score=85.0;evalue=5.4e-18;description=U6 spliceosomal RNA
+VANPL_A_00001	cmscan	miRNA	49998781	49998890	89.9	+	.	ID=miRNA_000016;Name=MIR172;rfam_acc=RF00452;clan=-;score=89.9;evalue=1.3e-16;description=mir-172 microRNA precursor family
+VANPL_A_00001	cmscan	snRNA	20896016	20896172	80.2	-	.	ID=snRNA_000017;Name=U1;rfam_acc=RF00003;clan=CL00005;score=80.2;evalue=5.3e-16;description=U1 spliceosomal RNA
+VANPL_A_00001	cmscan	miRNA	60014952	60015053	86.9	-	.	ID=miRNA_000018;Name=MIR396;rfam_acc=RF00648;clan=-;score=86.9;evalue=1.4e-15;description=MIR396 microRNA precursor family
+VANPL_A_00001	cmscan	snRNA	44251208	44251337	80.2	-	.	ID=snRNA_000019;Name=U6atac;rfam_acc=RF00619;clan=CL00009;score=80.2;evalue=1.9e-15;description=U6atac minor spliceosomal RNA
+VANPL_A_00001	cmscan	miRNA	6132574	6132666	87.4	-	.	ID=miRNA_000020;Name=MIR156;rfam_acc=RF00073;clan=-;score=87.4;evalue=2.3e-15;description=mir-156 microRNA precursor family
+VANPL_A_00001	cmscan	snoRNA	35465330	35465403	83.7	-	.	ID=snoRNA_000021;Name=snoR60;rfam_acc=RF00339;clan=CL00074;score=83.7;evalue=8.2e-15;description=Small nucleolar RNA snoR60
+VANPL_A_00001	cmscan	snoRNA	27315789	27315913	83.8	+	.	ID=snoRNA_000022;Name=SNORD14;rfam_acc=RF00016;clan=-;score=83.8;evalue=1.3e-14;description=Small nucleolar RNA SNORD14
+VANPL_A_00001	cmscan	ncRNA	73209320	73209394	82.9	-	.	ID=ncRNA_000023;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=82.9;evalue=2.2e-14;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00001	cmscan	snRNA	43246401	43246505	68.9	+	.	ID=snRNA_000024;Name=U6;rfam_acc=RF00026;clan=CL00009;score=68.9;evalue=4.4e-13;description=U6 spliceosomal RNA
+VANPL_A_00001	cmscan	miRNA	20224360	20224456	75.6	+	.	ID=miRNA_000025;Name=MIR393;rfam_acc=RF02516;clan=-;score=75.6;evalue=7.4e-13;description=mir-393 microRNA precursor family
+VANPL_A_00001	cmscan	miRNA	9693888	9694011	61.9	+	.	ID=miRNA_000026;Name=MIR169_2;rfam_acc=RF00645;clan=CL00098;score=61.9;evalue=7.6e-13;description=MIR169_2 microRNA precursor family
+VANPL_A_00001	cmscan	miRNA	41292796	41292899	60.5	-	.	ID=miRNA_000027;Name=MIR169_2;rfam_acc=RF00645;clan=CL00098;score=60.5;evalue=2.3e-12;description=MIR169_2 microRNA precursor family
+VANPL_A_00001	cmscan	snoRNA	17989346	17989430	73.9	-	.	ID=snoRNA_000028;Name=SNORD25;rfam_acc=RF00054;clan=CL00049;score=73.9;evalue=3.9e-12;description=Small nucleolar RNA SNORD25
+VANPL_A_00001	cmscan	ncRNA	40320327	40320373	68.8	-	.	ID=ncRNA_000029;Name=Plastid-ycf3;rfam_acc=RF04333;clan=-;score=68.8;evalue=5.7e-12;description=Plastid-ycf3 group II-D1 intron
+VANPL_A_00001	cmscan	miRNA	10914972	10915071	81.1	-	.	ID=miRNA_000030;Name=MIR171_1;rfam_acc=RF00643;clan=CL00099;score=81.1;evalue=5.9e-12;description=MIR171_1 microRNA precursor family
+VANPL_A_00001	cmscan	snoRNA	27315530	27315654	73.5	+	.	ID=snoRNA_000031;Name=SNORD14;rfam_acc=RF00016;clan=-;score=73.5;evalue=9.1e-12;description=Small nucleolar RNA SNORD14
+VANPL_A_00001	cmscan	miRNA	33149727	33149814	71.1	-	.	ID=miRNA_000032;Name=MIR160;rfam_acc=RF00247;clan=-;score=71.1;evalue=1.2e-11;description=mir-160 microRNA precursor family
+VANPL_A_00001	cmscan	snRNA	45976995	45977101	63.8	-	.	ID=snRNA_000033;Name=U6;rfam_acc=RF00026;clan=CL00009;score=63.8;evalue=1.5e-11;description=U6 spliceosomal RNA
+VANPL_A_00001	cmscan	ncRNA	7575576	7575628	71.5	+	.	ID=ncRNA_000034;Name=Plastid-psbl-rps4;rfam_acc=RF04351;clan=-;score=71.5;evalue=2.8e-11;description=Plastid-psbl-rps4 3UTR RNA
+VANPL_A_00001	cmscan	miRNA	49998781	49998890	70.1	-	.	ID=miRNA_000035;Name=MIR172;rfam_acc=RF00452;clan=-;score=70.1;evalue=3.6e-11;description=mir-172 microRNA precursor family
+VANPL_A_00001	cmscan	ncRNA	53683697	53683745	64.7	-	.	ID=ncRNA_000036;Name=Plastid-ndhA-ndhB-1;rfam_acc=RF04356;clan=CL00155;score=64.7;evalue=4.1e-11;description=Plastid-ndhA-ndhB-1 group II-D5 intron
+VANPL_A_00001	cmscan	snoRNA	25863654	25863746	71.8	+	.	ID=snoRNA_000037;Name=SNOR75;rfam_acc=RF02539;clan=-;score=71.8;evalue=7.1e-11;description=Plant small nucleolar RNA SNOR75
+VANPL_A_00001	cmscan	ncRNA	14616932	14617006	69.7	+	.	ID=ncRNA_000038;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=69.7;evalue=8.5e-11;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00001	cmscan	snRNA	15409945	15410050	60.5	+	.	ID=snRNA_000039;Name=U6;rfam_acc=RF00026;clan=CL00009;score=60.5;evalue=1.6e-10;description=U6 spliceosomal RNA
+VANPL_A_00001	cmscan	snoRNA	52502783	52502876	69.8	-	.	ID=snoRNA_000040;Name=snoR64;rfam_acc=RF00267;clan=-;score=69.8;evalue=2.1e-10;description=Small nucleolar RNA R64/Z200 family
+VANPL_A_00001	cmscan	ncRNA	73213190	73213238	61.8	+	.	ID=ncRNA_000041;Name=Plastid-ndhA-ndhB-1;rfam_acc=RF04356;clan=CL00155;score=61.8;evalue=3e-10;description=Plastid-ndhA-ndhB-1 group II-D5 intron
+VANPL_A_00001	cmscan	ncRNA	17243183	17243391	63.1	+	.	ID=ncRNA_000042;Name=U3;rfam_acc=RF00012;clan=CL00100;score=63.1;evalue=3.3e-09;description=Small nucleolar RNA U3
+VANPL_A_00001	cmscan	miRNA	20224361	20224457	61.9	-	.	ID=miRNA_000043;Name=MIR393;rfam_acc=RF02516;clan=-;score=61.9;evalue=4.7e-09;description=mir-393 microRNA precursor family
+VANPL_A_00001	cmscan	miRNA	35879910	35879995	67.1	+	.	ID=miRNA_000044;Name=MIR171_1;rfam_acc=RF00643;clan=CL00099;score=67.1;evalue=1.8e-08;description=MIR171_1 microRNA precursor family
+VANPL_A_00001	cmscan	ncRNA	53683700	53683740	57.7	-	.	ID=ncRNA_000045;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=57.7;evalue=2.6e-08;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00001	cmscan	ncRNA	26545686	26545732	55.9	-	.	ID=ncRNA_000046;Name=Plastid-ycf3;rfam_acc=RF04333;clan=-;score=55.9;evalue=2.8e-08;description=Plastid-ycf3 group II-D1 intron
+VANPL_A_00001	cmscan	miRNA	16760490	16760609	64.4	+	.	ID=miRNA_000047;Name=MIR169_5;rfam_acc=RF00865;clan=CL00098;score=64.4;evalue=3.3e-08;description=MIR169_5 microRNA precursor family
+VANPL_A_00001	cmscan	miRNA	10914974	10915073	63.8	+	.	ID=miRNA_000048;Name=MIR171_1;rfam_acc=RF00643;clan=CL00099;score=63.8;evalue=1.1e-07;description=MIR171_1 microRNA precursor family
+VANPL_A_00001	cmscan	snRNA	32073471	32073575	48.7	+	.	ID=snRNA_000049;Name=U6;rfam_acc=RF00026;clan=CL00009;score=48.7;evalue=6e-07;description=U6 spliceosomal RNA
+VANPL_A_00001	cmscan	snoRNA	17727611	17727690	59.5	-	.	ID=snoRNA_000050;Name=snoR53Y;rfam_acc=RF01279;clan=CL00080;score=59.5;evalue=1.2e-06;description=Small nucleolar RNA snoR53Y
+VANPL_A_00001	cmscan	snRNA	14152359	14152474	64.8	-	.	ID=snRNA_000051;Name=U5;rfam_acc=RF00020;clan=-;score=64.8;evalue=2.4e-06;description=U5 spliceosomal RNA
+VANPL_A_00001	cmscan	snoRNA	25694869	25694950	56.7	+	.	ID=snoRNA_000052;Name=SNORD34;rfam_acc=RF00147;clan=CL00055;score=56.7;evalue=2.5e-06;description=Small nucleolar RNA SNORD34
+VANPL_A_00001	cmscan	snoRNA	30560507	30560606	63.3	+	.	ID=snoRNA_000053;Name=snoR99;rfam_acc=RF01208;clan=-;score=63.3;evalue=2.3e-05;description=Small nucleolar RNA snoR99
+VANPL_A_00001	cmscan	snoRNA	10088800	10088894	50.1	+	.	ID=snoRNA_000054;Name=SNOR75;rfam_acc=RF02539;clan=-;score=50.1;evalue=5.1e-05;description=Plant small nucleolar RNA SNOR75
+VANPL_A_00001	cmscan	snRNA	59749941	59750086	50.9	-	.	ID=snRNA_000055;Name=U2;rfam_acc=RF00004;clan=CL00006;score=50.9;evalue=6e-05;description=U2 spliceosomal RNA
+VANPL_A_00001	cmscan	snoRNA	17989153	17989293	57.5	-	.	ID=snoRNA_000056;Name=snoR136;rfam_acc=RF02410;clan=-;score=57.5;evalue=6.9e-05;description=Small nucleolar RNA snoR136
+VANPL_A_00001	cmscan	ncRNA	30806903	30806949	51.0	+	.	ID=ncRNA_000057;Name=Plastid-rpoB;rfam_acc=RF04332;clan=-;score=51.0;evalue=0.00016;description=Plastid-rpoB 5UTR RNA
+VANPL_A_00001	cmscan	snoRNA	31234900	31234993	50.7	+	.	ID=snoRNA_000058;Name=snoR69Y;rfam_acc=RF01198;clan=CL00051;score=50.7;evalue=0.00039;description=Small nucleolar RNA snoR69Y
+VANPL_A_00001	cmscan	miRNA	35879908	35879993	48.1	-	.	ID=miRNA_000059;Name=MIR171_1;rfam_acc=RF00643;clan=CL00099;score=48.1;evalue=0.00092;description=MIR171_1 microRNA precursor family
+VANPL_A_00001	cmscan	snoRNA	25691137	25691215	45.2	+	.	ID=snoRNA_000060;Name=SNORD34;rfam_acc=RF00147;clan=CL00055;score=45.2;evalue=0.0023;description=Small nucleolar RNA SNORD34
+VANPL_A_00001	cmscan	snoRNA	52502647	52502729	40.9	-	.	ID=snoRNA_000061;Name=snoR14;rfam_acc=RF01280;clan=CL00076;score=40.9;evalue=0.016;description=Small nucleolar RNA snoR14
+VANPL_A_00001	cmscan	snoRNA	30541527	30541626	46.1	+	.	ID=snoRNA_000062;Name=snoR99;rfam_acc=RF01208;clan=-;score=46.1;evalue=0.091;description=Small nucleolar RNA snoR99
+VANPL_A_00002	cmscan	snRNA	15265246	15265441	176.6	+	.	ID=snRNA_000063;Name=U2;rfam_acc=RF00004;clan=CL00006;score=176.6;evalue=2.6e-35;description=U2 spliceosomal RNA
+VANPL_A_00002	cmscan	miRNA	18464789	18464983	151.9	-	.	ID=miRNA_000064;Name=MIR159;rfam_acc=RF00638;clan=-;score=151.9;evalue=7.1e-32;description=MIR159 microRNA precursor family
+VANPL_A_00002	cmscan	snRNA	33116756	33116914	124.1	-	.	ID=snRNA_000065;Name=U1;rfam_acc=RF00003;clan=CL00005;score=124.1;evalue=6.7e-29;description=U1 spliceosomal RNA
+VANPL_A_00002	cmscan	snRNA	33174054	33174212	124.1	+	.	ID=snRNA_000066;Name=U1;rfam_acc=RF00003;clan=CL00005;score=124.1;evalue=6.7e-29;description=U1 spliceosomal RNA
+VANPL_A_00002	cmscan	snRNA	33359864	33360023	122.1	-	.	ID=snRNA_000067;Name=U1;rfam_acc=RF00003;clan=CL00005;score=122.1;evalue=2.4e-28;description=U1 spliceosomal RNA
+VANPL_A_00002	cmscan	snRNA	33358847	33359005	121.0	-	.	ID=snRNA_000068;Name=U1;rfam_acc=RF00003;clan=CL00005;score=121.0;evalue=5.1e-28;description=U1 spliceosomal RNA
+VANPL_A_00002	cmscan	miRNA	11156787	11157015	102.9	-	.	ID=miRNA_000069;Name=MIR159;rfam_acc=RF00638;clan=-;score=102.9;evalue=2.6e-19;description=MIR159 microRNA precursor family
+VANPL_A_00002	cmscan	miRNA	18464791	18464985	101.0	+	.	ID=miRNA_000070;Name=MIR159;rfam_acc=RF00638;clan=-;score=101.0;evalue=7.6e-19;description=MIR159 microRNA precursor family
+VANPL_A_00002	cmscan	ncRNA	36923109	36923183	91.4	-	.	ID=ncRNA_000071;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=91.4;evalue=5.8e-17;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00002	cmscan	miRNA	11345246	11345462	91.2	-	.	ID=miRNA_000072;Name=MIR159;rfam_acc=RF00638;clan=-;score=91.2;evalue=2.6e-16;description=MIR159 microRNA precursor family
+VANPL_A_00002	cmscan	miRNA	11121205	11121424	89.5	-	.	ID=miRNA_000073;Name=MIR159;rfam_acc=RF00638;clan=-;score=89.5;evalue=6.6e-16;description=MIR159 microRNA precursor family
+VANPL_A_00002	cmscan	miRNA	11096975	11097191	89.1	-	.	ID=miRNA_000074;Name=MIR159;rfam_acc=RF00638;clan=-;score=89.1;evalue=8.9e-16;description=MIR159 microRNA precursor family
+VANPL_A_00002	cmscan	miRNA	20763420	20763501	78.2	+	.	ID=miRNA_000075;Name=MIR166;rfam_acc=RF00075;clan=-;score=78.2;evalue=4.3e-15;description=mir-166 microRNA precursor family
+VANPL_A_00002	cmscan	miRNA	15893106	15893212	71.7	+	.	ID=miRNA_000076;Name=MIR398;rfam_acc=RF00695;clan=-;score=71.7;evalue=1.6e-12;description=MIR398 microRNA precursor family
+VANPL_A_00002	cmscan	miRNA	11379842	11380068	75.0	-	.	ID=miRNA_000077;Name=MIR159;rfam_acc=RF00638;clan=-;score=75.0;evalue=3.6e-12;description=MIR159 microRNA precursor family
+VANPL_A_00002	cmscan	miRNA	27505358	27505444	69.2	-	.	ID=miRNA_000078;Name=MIR160;rfam_acc=RF00247;clan=-;score=69.2;evalue=2.5e-11;description=mir-160 microRNA precursor family
+VANPL_A_00002	cmscan	ncRNA	22732084	22732158	70.1	-	.	ID=ncRNA_000079;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=70.1;evalue=3.9e-11;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00002	cmscan	snRNA	14107720	14107847	74.0	-	.	ID=snRNA_000080;Name=U11;rfam_acc=RF00548;clan=CL00005;score=74.0;evalue=1.8e-09;description=U11 spliceosomal RNA
+VANPL_A_00002	cmscan	snoRNA	13596985	13597086	61.7	-	.	ID=snoRNA_000081;Name=snoR113;rfam_acc=RF01420;clan=-;score=61.7;evalue=4.4e-09;description=Small nucleolar RNA snoR113
+VANPL_A_00002	cmscan	miRNA	7725609	7725709	61.2	+	.	ID=miRNA_000082;Name=MIR171_1;rfam_acc=RF00643;clan=CL00099;score=61.2;evalue=2.9e-07;description=MIR171_1 microRNA precursor family
+VANPL_A_00002	cmscan	snRNA	13826551	13826671	66.4	-	.	ID=snRNA_000083;Name=U5;rfam_acc=RF00020;clan=-;score=66.4;evalue=6e-07;description=U5 spliceosomal RNA
+VANPL_A_00002	cmscan	snoRNA	5464010	5464112	70.4	-	.	ID=snoRNA_000084;Name=snoR103;rfam_acc=RF01213;clan=-;score=70.4;evalue=1.6e-06;description=Small nucleolar RNA snoR103
+VANPL_A_00002	cmscan	snoRNA	26607481	26607610	56.8	+	.	ID=snoRNA_000085;Name=snoR111;rfam_acc=RF01228;clan=-;score=56.8;evalue=1.6e-05;description=Small nucleolar RNA snoR111
+VANPL_A_00002	cmscan	snoRNA	26600149	26600277	51.1	+	.	ID=snoRNA_000086;Name=snoR111;rfam_acc=RF01228;clan=-;score=51.1;evalue=0.00034;description=Small nucleolar RNA snoR111
+VANPL_A_00002	cmscan	snoRNA	24733892	24733975	53.5	-	.	ID=snoRNA_000087;Name=SNORD36;rfam_acc=RF00049;clan=CL00051;score=53.5;evalue=0.00047;description=Small nucleolar RNA SNORD36
+VANPL_A_00002	cmscan	ncRNA	41583993	41584054	50.9	+	.	ID=ncRNA_000088;Name=Plastid-psbN;rfam_acc=RF04353;clan=-;score=50.9;evalue=0.00048;description=Plastid-psbN 5UTR RNA
+VANPL_A_00002	cmscan	snoRNA	24735311	24735397	44.3	-	.	ID=snoRNA_000089;Name=SNORD36;rfam_acc=RF00049;clan=CL00051;score=44.3;evalue=0.058;description=Small nucleolar RNA SNORD36
+VANPL_A_00003	cmscan	miRNA	34453255	34453443	132.5	+	.	ID=miRNA_000090;Name=MIR159;rfam_acc=RF00638;clan=-;score=132.5;evalue=6.6e-27;description=MIR159 microRNA precursor family
+VANPL_A_00003	cmscan	ncRNA	9623070	9623144	103.4	+	.	ID=ncRNA_000091;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=103.4;evalue=3e-20;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00003	cmscan	ncRNA	16462146	16462220	99.2	+	.	ID=ncRNA_000092;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=99.2;evalue=4.2e-19;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00003	cmscan	ncRNA	16418447	16418521	98.9	+	.	ID=ncRNA_000093;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=98.9;evalue=5.3e-19;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00003	cmscan	miRNA	41474817	41475010	96.2	-	.	ID=miRNA_000094;Name=MIR159;rfam_acc=RF00638;clan=-;score=96.2;evalue=1.3e-17;description=MIR159 microRNA precursor family
+VANPL_A_00003	cmscan	miRNA	33101964	33102067	91.2	-	.	ID=miRNA_000095;Name=MIR390;rfam_acc=RF00689;clan=-;score=91.2;evalue=2.9e-17;description=MIR390 microRNA precursor family
+VANPL_A_00003	cmscan	miRNA	27661858	27661959	84.4	+	.	ID=miRNA_000096;Name=MIR171_2;rfam_acc=RF00692;clan=CL00099;score=84.4;evalue=1.1e-16;description=MIR171_2 microRNA precursor family
+VANPL_A_00003	cmscan	miRNA	34453253	34453441	87.1	-	.	ID=miRNA_000097;Name=MIR159;rfam_acc=RF00638;clan=-;score=87.1;evalue=2.8e-15;description=MIR159 microRNA precursor family
+VANPL_A_00003	cmscan	miRNA	23239947	23240050	77.2	-	.	ID=miRNA_000098;Name=MIR394;rfam_acc=RF00688;clan=-;score=77.2;evalue=1.3e-12;description=MIR394 microRNA precursor family
+VANPL_A_00003	cmscan	miRNA	5528440	5528536	77.6	-	.	ID=miRNA_000099;Name=MIR535;rfam_acc=RF00714;clan=-;score=77.6;evalue=1.3e-12;description=MIR535 microRNA precursor family
+VANPL_A_00003	cmscan	ncRNA	23390341	23390416	74.8	-	.	ID=ncRNA_000100;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=74.8;evalue=2.1e-12;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00003	cmscan	ncRNA	16544034	16544174	83.6	+	.	ID=ncRNA_000101;Name=Plastid-psbJ-2;rfam_acc=RF04338;clan=CL00152;score=83.6;evalue=8.1e-12;description=Plastid-psbJ-2 3UTR RNA
+VANPL_A_00003	cmscan	ncRNA	9645532	9645578	66.5	+	.	ID=ncRNA_000102;Name=Plastid-ycf3;rfam_acc=RF04333;clan=-;score=66.5;evalue=1.4e-11;description=Plastid-ycf3 group II-D1 intron
+VANPL_A_00003	cmscan	ncRNA	9633241	9633281	68.2	-	.	ID=ncRNA_000103;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=68.2;evalue=1.6e-11;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00003	cmscan	ncRNA	9646074	9646114	64.3	+	.	ID=ncRNA_000104;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=64.3;evalue=2e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00003	cmscan	miRNA	5528438	5528534	65.0	+	.	ID=miRNA_000105;Name=MIR535;rfam_acc=RF00714;clan=-;score=65.0;evalue=2.9e-09;description=MIR535 microRNA precursor family
+VANPL_A_00003	cmscan	ncRNA	16540761	16540862	82.4	-	.	ID=ncRNA_000106;Name=Plastid-rps12;rfam_acc=RF04345;clan=-;score=82.4;evalue=3e-09;description=Plastid-rps12 3UTR RNA
+VANPL_A_00003	cmscan	snRNA	4732470	4732557	74.5	+	.	ID=snRNA_000107;Name=U5;rfam_acc=RF00020;clan=-;score=74.5;evalue=8.6e-09;description=U5 spliceosomal RNA
+VANPL_A_00003	cmscan	ncRNA	16416936	16416997	65.3	-	.	ID=ncRNA_000108;Name=Plastid-psbN;rfam_acc=RF04353;clan=-;score=65.3;evalue=2.1e-07;description=Plastid-psbN 5UTR RNA
+VANPL_A_00003	cmscan	snRNA	7205494	7205586	44.9	-	.	ID=snRNA_000109;Name=U6;rfam_acc=RF00026;clan=CL00009;score=44.9;evalue=4.7e-06;description=U6 spliceosomal RNA
+VANPL_A_00003	cmscan	ncRNA	20049395	20049443	52.5	-	.	ID=ncRNA_000110;Name=Plastid-rpoB;rfam_acc=RF04332;clan=-;score=52.5;evalue=3.8e-05;description=Plastid-rpoB 5UTR RNA
+VANPL_A_00003	cmscan	ncRNA	15269689	15269749	51.1	+	.	ID=ncRNA_000111;Name=Plastid-psbN;rfam_acc=RF04353;clan=-;score=51.1;evalue=0.00043;description=Plastid-psbN 5UTR RNA
+VANPL_A_00004	cmscan	ncRNA	28652235	28652459	79.9	+	.	ID=ncRNA_000112;Name=RNase_MRP;rfam_acc=RF00030;clan=CL00002;score=79.9;evalue=1.4e-18;description=RNase MRP
+VANPL_A_00004	cmscan	miRNA	21252501	21252596	81.6	+	.	ID=miRNA_000113;Name=MIR166;rfam_acc=RF00075;clan=-;score=81.6;evalue=3.7e-16;description=mir-166 microRNA precursor family
+VANPL_A_00004	cmscan	miRNA	12977107	12977188	79.6	+	.	ID=miRNA_000114;Name=MIR172;rfam_acc=RF00452;clan=-;score=79.6;evalue=4.2e-14;description=mir-172 microRNA precursor family
+VANPL_A_00004	cmscan	snoRNA	33969815	33969892	81.5	-	.	ID=snoRNA_000115;Name=snoR28;rfam_acc=RF00355;clan=-;score=81.5;evalue=1.9e-12;description=Small nucleolar RNA snoR28
+VANPL_A_00004	cmscan	snoRNA	33651459	33651584	82.7	+	.	ID=snoRNA_000116;Name=snoR83;rfam_acc=RF01227;clan=-;score=82.7;evalue=2.4e-12;description=Small nucleolar RNA snoR83
+VANPL_A_00004	cmscan	ncRNA	31383702	31383803	91.1	-	.	ID=ncRNA_000117;Name=Plastid-rps12;rfam_acc=RF04345;clan=-;score=91.1;evalue=3.8e-11;description=Plastid-rps12 3UTR RNA
+VANPL_A_00004	cmscan	ncRNA	36120986	36121087	91.1	-	.	ID=ncRNA_000118;Name=Plastid-rps12;rfam_acc=RF04345;clan=-;score=91.1;evalue=3.8e-11;description=Plastid-rps12 3UTR RNA
+VANPL_A_00004	cmscan	snoRNA	33652996	33653122	68.9	+	.	ID=snoRNA_000119;Name=snoR83;rfam_acc=RF01227;clan=-;score=68.9;evalue=5.1e-09;description=Small nucleolar RNA snoR83
+VANPL_A_00004	cmscan	snRNA	31452220	31452366	53.2	-	.	ID=snRNA_000120;Name=U4;rfam_acc=RF00015;clan=CL00007;score=53.2;evalue=3.8e-07;description=U4 spliceosomal RNA
+VANPL_A_00004	cmscan	snoRNA	21147014	21147106	66.4	-	.	ID=snoRNA_000121;Name=snoR27;rfam_acc=RF01287;clan=CL00079;score=66.4;evalue=1.2e-06;description=Small nucleolar RNA snoR27
+VANPL_A_00004	cmscan	ncRNA	36119870	36119960	68.5	-	.	ID=ncRNA_000122;Name=Plastid-rpl20;rfam_acc=RF04335;clan=-;score=68.5;evalue=6.7e-06;description=Plastid-rpl20 3UTR RNA
+VANPL_A_00004	cmscan	ncRNA	2117807	2117867	53.8	-	.	ID=ncRNA_000123;Name=Plastid-psbN;rfam_acc=RF04353;clan=-;score=53.8;evalue=8.9e-05;description=Plastid-psbN 5UTR RNA
+VANPL_A_00005	cmscan	ncRNA	1187473	1187682	147.4	-	.	ID=ncRNA_000124;Name=Plant_U3;rfam_acc=RF01847;clan=CL00100;score=147.4;evalue=1.2e-37;description=Plant small nucleolar RNA U3
+VANPL_A_00005	cmscan	snRNA	29346367	29346469	113.1	-	.	ID=snRNA_000125;Name=U6;rfam_acc=RF00026;clan=CL00009;score=113.1;evalue=9.5e-27;description=U6 spliceosomal RNA
+VANPL_A_00005	cmscan	snRNA	33675130	33675270	104.0	-	.	ID=snRNA_000126;Name=U4;rfam_acc=RF00015;clan=CL00007;score=104.0;evalue=1.7e-20;description=U4 spliceosomal RNA
+VANPL_A_00005	cmscan	ncRNA	35118806	35118880	96.0	+	.	ID=ncRNA_000127;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=96.0;evalue=3.4e-18;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00005	cmscan	snRNA	43383130	43383287	96.0	+	.	ID=snRNA_000128;Name=U12;rfam_acc=RF00007;clan=CL00006;score=96.0;evalue=9.9e-16;description=U12 minor spliceosomal RNA
+VANPL_A_00005	cmscan	snoRNA	11365829	11365986	99.1	-	.	ID=snoRNA_000129;Name=snoR2;rfam_acc=RF01292;clan=CL00042;score=99.1;evalue=1.9e-15;description=Small nucleolar RNA snoR2/U65
+VANPL_A_00005	cmscan	ncRNA	19555445	19555519	85.8	+	.	ID=ncRNA_000130;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=85.8;evalue=2.1e-15;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00005	cmscan	snoRNA	1199054	1199145	79.7	-	.	ID=snoRNA_000131;Name=snoR1;rfam_acc=RF00345;clan=CL00066;score=79.7;evalue=1.4e-13;description=Small nucleolar RNA snoR1
+VANPL_A_00005	cmscan	snoRNA	34894332	34894440	82.5	+	.	ID=snoRNA_000132;Name=snoR100;rfam_acc=RF01219;clan=-;score=82.5;evalue=2.2e-13;description=Small nucleolar RNA snoR100
+VANPL_A_00005	cmscan	ncRNA	1187474	1187682	73.7	-	.	ID=ncRNA_000133;Name=U3;rfam_acc=RF00012;clan=CL00100;score=73.7;evalue=3.8e-12;description=Small nucleolar RNA U3
+VANPL_A_00005	cmscan	snRNA	14053051	14053169	88.7	+	.	ID=snRNA_000134;Name=U5;rfam_acc=RF00020;clan=-;score=88.7;evalue=5.3e-12;description=U5 spliceosomal RNA
+VANPL_A_00005	cmscan	miRNA	39963670	39963760	70.4	-	.	ID=miRNA_000135;Name=MIR160;rfam_acc=RF00247;clan=-;score=70.4;evalue=1.2e-11;description=mir-160 microRNA precursor family
+VANPL_A_00005	cmscan	snoRNA	1199434	1199520	72.1	-	.	ID=snoRNA_000136;Name=snoR1;rfam_acc=RF00345;clan=CL00066;score=72.1;evalue=1.5e-11;description=Small nucleolar RNA snoR1
+VANPL_A_00005	cmscan	snRNA	32605194	32605295	62.4	+	.	ID=snRNA_000137;Name=U6;rfam_acc=RF00026;clan=CL00009;score=62.4;evalue=2.4e-11;description=U6 spliceosomal RNA
+VANPL_A_00005	cmscan	ncRNA	14311575	14311655	76.6	+	.	ID=ncRNA_000138;Name=U54;rfam_acc=RF00206;clan=CL00008;score=76.6;evalue=3.1e-11;description=Small nucleolar RNA U54
+VANPL_A_00005	cmscan	miRNA	35203981	35204057	67.8	+	.	ID=miRNA_000139;Name=MIR164;rfam_acc=RF00647;clan=-;score=67.8;evalue=1.9e-10;description=MIR164 microRNA precursor family
+VANPL_A_00005	cmscan	ncRNA	5595853	5595899	66.7	+	.	ID=ncRNA_000140;Name=Plastid-petD;rfam_acc=RF04336;clan=-;score=66.7;evalue=3.2e-10;description=Plastid-petD group II-D5 intron
+VANPL_A_00005	cmscan	ncRNA	14311303	14311383	71.5	+	.	ID=ncRNA_000141;Name=U54;rfam_acc=RF00206;clan=CL00008;score=71.5;evalue=6.1e-10;description=Small nucleolar RNA U54
+VANPL_A_00005	cmscan	snRNA	12978646	12978788	61.1	+	.	ID=snRNA_000142;Name=U4;rfam_acc=RF00015;clan=CL00007;score=61.1;evalue=3.9e-09;description=U4 spliceosomal RNA
+VANPL_A_00005	cmscan	miRNA	15665654	15665757	61.5	+	.	ID=miRNA_000143;Name=MIR395;rfam_acc=RF00451;clan=-;score=61.5;evalue=5.6e-09;description=mir-395 microRNA precursor family
+VANPL_A_00005	cmscan	miRNA	15741943	15742050	61.4	-	.	ID=miRNA_000144;Name=MIR395;rfam_acc=RF00451;clan=-;score=61.4;evalue=6e-09;description=mir-395 microRNA precursor family
+VANPL_A_00005	cmscan	miRNA	2218329	2218413	62.1	+	.	ID=miRNA_000145;Name=MIR156;rfam_acc=RF00073;clan=-;score=62.1;evalue=9.4e-09;description=mir-156 microRNA precursor family
+VANPL_A_00005	cmscan	miRNA	15735826	15735934	58.9	-	.	ID=miRNA_000146;Name=MIR395;rfam_acc=RF00451;clan=-;score=58.9;evalue=3.1e-08;description=mir-395 microRNA precursor family
+VANPL_A_00005	cmscan	miRNA	15741943	15742050	56.7	+	.	ID=miRNA_000147;Name=MIR395;rfam_acc=RF00451;clan=-;score=56.7;evalue=1.2e-07;description=mir-395 microRNA precursor family
+VANPL_A_00005	cmscan	ncRNA	27320693	27320733	53.1	+	.	ID=ncRNA_000148;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=53.1;evalue=3.3e-07;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00005	cmscan	ncRNA	14311851	14311931	59.4	+	.	ID=ncRNA_000149;Name=U54;rfam_acc=RF00206;clan=CL00008;score=59.4;evalue=6.9e-07;description=Small nucleolar RNA U54
+VANPL_A_00005	cmscan	snRNA	34778646	34778764	51.2	-	.	ID=snRNA_000150;Name=U4;rfam_acc=RF00015;clan=CL00007;score=51.2;evalue=1.6e-06;description=U4 spliceosomal RNA
+VANPL_A_00005	cmscan	snoRNA	24437616	24437709	58.5	-	.	ID=snoRNA_000151;Name=snoR126;rfam_acc=RF01426;clan=-;score=58.5;evalue=2e-06;description=small nucleolar RNA snoR126
+VANPL_A_00005	cmscan	snRNA	15719919	15720025	55.2	-	.	ID=snRNA_000152;Name=U2;rfam_acc=RF00004;clan=CL00006;score=55.2;evalue=3.4e-06;description=U2 spliceosomal RNA
+VANPL_A_00005	cmscan	ncRNA	1187473	1187682	55.0	-	.	ID=ncRNA_000153;Name=ACEA_U3;rfam_acc=RF01848;clan=CL00100;score=55.0;evalue=6.1e-06;description=ACEA small nucleolar RNA U3
+VANPL_A_00005	cmscan	snoRNA	34893948	34894046	47.1	+	.	ID=snoRNA_000154;Name=snoR41;rfam_acc=RF00205;clan=CL00068;score=47.1;evalue=0.0016;description=Small nucleolar RNA R41
+VANPL_A_00006	cmscan	snRNA	4289090	4289285	183.6	+	.	ID=snRNA_000155;Name=U2;rfam_acc=RF00004;clan=CL00006;score=183.6;evalue=5.5e-37;description=U2 spliceosomal RNA
+VANPL_A_00006	cmscan	snRNA	33303583	33303779	177.1	+	.	ID=snRNA_000156;Name=U2;rfam_acc=RF00004;clan=CL00006;score=177.1;evalue=2e-35;description=U2 spliceosomal RNA
+VANPL_A_00006	cmscan	snRNA	34386175	34386371	174.8	-	.	ID=snRNA_000157;Name=U2;rfam_acc=RF00004;clan=CL00006;score=174.8;evalue=7e-35;description=U2 spliceosomal RNA
+VANPL_A_00006	cmscan	snRNA	34832931	34833127	171.2	-	.	ID=snRNA_000158;Name=U2;rfam_acc=RF00004;clan=CL00006;score=171.2;evalue=5.2e-34;description=U2 spliceosomal RNA
+VANPL_A_00006	cmscan	miRNA	3098190	3098293	82.4	-	.	ID=miRNA_000159;Name=MIR166;rfam_acc=RF00075;clan=-;score=82.4;evalue=2.5e-16;description=mir-166 microRNA precursor family
+VANPL_A_00006	cmscan	miRNA	41205713	41205874	65.1	-	.	ID=miRNA_000160;Name=MIR169_2;rfam_acc=RF00645;clan=CL00098;score=65.1;evalue=3.4e-14;description=MIR169_2 microRNA precursor family
+VANPL_A_00006	cmscan	miRNA	5034697	5034867	62.1	-	.	ID=miRNA_000161;Name=MIR169_2;rfam_acc=RF00645;clan=CL00098;score=62.1;evalue=3.8e-13;description=MIR169_2 microRNA precursor family
+VANPL_A_00006	cmscan	snoRNA	4046915	4046984	70.4	+	.	ID=snoRNA_000162;Name=snoR60;rfam_acc=RF00339;clan=CL00074;score=70.4;evalue=2.2e-11;description=Small nucleolar RNA snoR60
+VANPL_A_00006	cmscan	snoRNA	4046727	4046799	69.9	+	.	ID=snoRNA_000163;Name=snoR60;rfam_acc=RF00339;clan=CL00074;score=69.9;evalue=3.1e-11;description=Small nucleolar RNA snoR60
+VANPL_A_00006	cmscan	ncRNA	22342526	22342572	66.7	-	.	ID=ncRNA_000164;Name=Plastid-petD;rfam_acc=RF04336;clan=-;score=66.7;evalue=3e-10;description=Plastid-petD group II-D5 intron
+VANPL_A_00006	cmscan	ncRNA	7359398	7359472	66.8	+	.	ID=ncRNA_000165;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=66.8;evalue=3.1e-10;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00006	cmscan	snRNA	3060465	3060576	56.7	+	.	ID=snRNA_000166;Name=U6;rfam_acc=RF00026;clan=CL00009;score=56.7;evalue=1.3e-09;description=U6 spliceosomal RNA
+VANPL_A_00006	cmscan	miRNA	30009183	30009296	51.7	+	.	ID=miRNA_000167;Name=MIR169_2;rfam_acc=RF00645;clan=CL00098;score=51.7;evalue=1.5e-09;description=MIR169_2 microRNA precursor family
+VANPL_A_00006	cmscan	miRNA	8539309	8539410	66.3	-	.	ID=miRNA_000168;Name=MIR397;rfam_acc=RF00704;clan=-;score=66.3;evalue=7.1e-09;description=MIR397 microRNA precursor family
+VANPL_A_00006	cmscan	snoRNA	30534581	30534712	77.4	+	.	ID=snoRNA_000169;Name=snoR74;rfam_acc=RF01231;clan=-;score=77.4;evalue=5.6e-08;description=Small nucleolar RNA snoR74
+VANPL_A_00006	cmscan	miRNA	3528527	3528631	61.0	-	.	ID=miRNA_000170;Name=MIR171_1;rfam_acc=RF00643;clan=CL00099;score=61.0;evalue=3.2e-07;description=MIR171_1 microRNA precursor family
+VANPL_A_00006	cmscan	miRNA	30009181	30009297	58.7	-	.	ID=miRNA_000171;Name=MIR169_5;rfam_acc=RF00865;clan=CL00098;score=58.7;evalue=5e-07;description=MIR169_5 microRNA precursor family
+VANPL_A_00006	cmscan	miRNA	8539307	8539408	55.0	+	.	ID=miRNA_000172;Name=MIR397;rfam_acc=RF00704;clan=-;score=55.0;evalue=5.5e-06;description=MIR397 microRNA precursor family
+VANPL_A_00006	cmscan	snoRNA	31957093	31957177	57.8	-	.	ID=snoRNA_000173;Name=snoR16;rfam_acc=RF00296;clan=-;score=57.8;evalue=1.9e-05;description=Small nucleolar RNA R16
+VANPL_A_00006	cmscan	snoRNA	30535210	30535339	57.5	+	.	ID=snoRNA_000174;Name=snoR74;rfam_acc=RF01231;clan=-;score=57.5;evalue=0.00054;description=Small nucleolar RNA snoR74
+VANPL_A_00006	cmscan	snoRNA	3647004	3647093	52.8	+	.	ID=snoRNA_000175;Name=snoR27;rfam_acc=RF01287;clan=CL00079;score=52.8;evalue=0.0014;description=Small nucleolar RNA snoR27
+VANPL_A_00006	cmscan	snoRNA	4046558	4046613	41.5	+	.	ID=snoRNA_000176;Name=snoR60;rfam_acc=RF00339;clan=CL00074;score=41.5;evalue=0.0023;description=Small nucleolar RNA snoR60
+VANPL_A_00006	cmscan	snoRNA	39704990	39705055	32.0	+	.	ID=snoRNA_000177;Name=SNORD36;rfam_acc=RF00049;clan=CL00051;score=32.0;evalue=34;description=Small nucleolar RNA SNORD36
+VANPL_A_00007	cmscan	miRNA	17346191	17346303	92.8	-	.	ID=miRNA_000178;Name=MIR171_2;rfam_acc=RF00692;clan=CL00099;score=92.8;evalue=3.4e-19;description=MIR171_2 microRNA precursor family
+VANPL_A_00007	cmscan	ncRNA	33530187	33530261	98.9	-	.	ID=ncRNA_000179;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=98.9;evalue=5e-19;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00007	cmscan	miRNA	23453132	23453250	77.8	+	.	ID=miRNA_000180;Name=MIR169_2;rfam_acc=RF00645;clan=CL00098;score=77.8;evalue=1.2e-18;description=MIR169_2 microRNA precursor family
+VANPL_A_00007	cmscan	miRNA	23463851	23463958	69.9	+	.	ID=miRNA_000181;Name=MIR169_2;rfam_acc=RF00645;clan=CL00098;score=69.9;evalue=6.5e-16;description=MIR169_2 microRNA precursor family
+VANPL_A_00007	cmscan	miRNA	3072611	3072733	78.3	+	.	ID=miRNA_000182;Name=MIR166;rfam_acc=RF00075;clan=-;score=78.3;evalue=3.8e-15;description=mir-166 microRNA precursor family
+VANPL_A_00007	cmscan	miRNA	23439560	23439653	67.5	+	.	ID=miRNA_000183;Name=MIR169_2;rfam_acc=RF00645;clan=CL00098;score=67.5;evalue=4.7e-15;description=MIR169_2 microRNA precursor family
+VANPL_A_00007	cmscan	miRNA	17734892	17734992	77.7	-	.	ID=miRNA_000184;Name=MIR171_2;rfam_acc=RF00692;clan=CL00099;score=77.7;evalue=9.6e-15;description=MIR171_2 microRNA precursor family
+VANPL_A_00007	cmscan	miRNA	2994923	2995043	75.7	+	.	ID=miRNA_000185;Name=MIR166;rfam_acc=RF00075;clan=-;score=75.7;evalue=2.1e-14;description=mir-166 microRNA precursor family
+VANPL_A_00007	cmscan	miRNA	23452936	23453046	63.3	+	.	ID=miRNA_000186;Name=MIR169_2;rfam_acc=RF00645;clan=CL00098;score=63.3;evalue=1.4e-13;description=MIR169_2 microRNA precursor family
+VANPL_A_00007	cmscan	miRNA	27790658	27790785	77.6	+	.	ID=miRNA_000187;Name=MIR390;rfam_acc=RF00689;clan=-;score=77.6;evalue=1.9e-13;description=MIR390 microRNA precursor family
+VANPL_A_00007	cmscan	ncRNA	14447711	14447757	67.9	-	.	ID=ncRNA_000188;Name=Plastid-ycf3;rfam_acc=RF04333;clan=-;score=67.9;evalue=5.4e-12;description=Plastid-ycf3 group II-D1 intron
+VANPL_A_00007	cmscan	ncRNA	11093569	11093609	68.2	-	.	ID=ncRNA_000189;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=68.2;evalue=1.5e-11;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00007	cmscan	ncRNA	7821290	7821336	65.4	-	.	ID=ncRNA_000190;Name=Plastid-ycf3;rfam_acc=RF04333;clan=-;score=65.4;evalue=2.7e-11;description=Plastid-ycf3 group II-D1 intron
+VANPL_A_00007	cmscan	snRNA	29659026	29659136	59.4	+	.	ID=snRNA_000191;Name=U6;rfam_acc=RF00026;clan=CL00009;score=59.4;evalue=1.8e-10;description=U6 spliceosomal RNA
+VANPL_A_00007	cmscan	miRNA	23453130	23453248	50.3	-	.	ID=miRNA_000192;Name=MIR169_2;rfam_acc=RF00645;clan=CL00098;score=50.3;evalue=4.4e-09;description=MIR169_2 microRNA precursor family
+VANPL_A_00007	cmscan	miRNA	36135312	36135396	62.1	-	.	ID=miRNA_000193;Name=MIR156;rfam_acc=RF00073;clan=-;score=62.1;evalue=8.7e-09;description=mir-156 microRNA precursor family
+VANPL_A_00007	cmscan	snoRNA	28362174	28362251	61.9	+	.	ID=snoRNA_000194;Name=snoR35;rfam_acc=RF01281;clan=CL00053;score=61.9;evalue=4.6e-08;description=Small nucleolar RNA snoR35
+VANPL_A_00007	cmscan	snoRNA	25368804	25368880	60.5	+	.	ID=snoRNA_000195;Name=snoR160;rfam_acc=RF00203;clan=-;score=60.5;evalue=3.6e-06;description=Small nucleolar RNA R160
+VANPL_A_00007	cmscan	snoRNA	35204051	35204223	55.5	+	.	ID=snoRNA_000196;Name=snoR127;rfam_acc=RF01427;clan=-;score=55.5;evalue=6.5e-06;description=small nucleolar RNA snoR127
+VANPL_A_00007	cmscan	snoRNA	32410838	32410927	56.0	-	.	ID=snoRNA_000197;Name=snoR126;rfam_acc=RF01426;clan=-;score=56.0;evalue=7.5e-06;description=small nucleolar RNA snoR126
+VANPL_A_00007	cmscan	snoRNA	13381019	13381148	58.1	-	.	ID=snoRNA_000198;Name=snoR137;rfam_acc=RF01433;clan=-;score=58.1;evalue=1.8e-05;description=small nucleolar RNA snoR137
+VANPL_A_00007	cmscan	ncRNA	3673926	3673982	63.0	+	.	ID=ncRNA_000199;Name=Plastid-rps18;rfam_acc=RF04349;clan=-;score=63.0;evalue=0.00017;description=Plastid-rps18 3UTR RNA
+VANPL_A_00007	cmscan	snoRNA	25368652	25368729	50.2	+	.	ID=snoRNA_000200;Name=snoR160;rfam_acc=RF00203;clan=-;score=50.2;evalue=0.0011;description=Small nucleolar RNA R160
+VANPL_A_00007	cmscan	snoRNA	34100733	34100832	49.1	-	.	ID=snoRNA_000201;Name=snoR31_Z110_Z27;rfam_acc=RF00353;clan=-;score=49.1;evalue=0.025;description=Small nucleolar RNA snoR31/Z110/Z27
+VANPL_A_00008	cmscan	snRNA	13668894	13668996	113.1	-	.	ID=snRNA_000202;Name=U6;rfam_acc=RF00026;clan=CL00009;score=113.1;evalue=6.7e-27;description=U6 spliceosomal RNA
+VANPL_A_00008	cmscan	ncRNA	4445935	4446009	93.8	-	.	ID=ncRNA_000203;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=93.8;evalue=9.6e-18;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00008	cmscan	ncRNA	2628555	2628629	90.5	+	.	ID=ncRNA_000204;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=90.5;evalue=7.5e-17;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00008	cmscan	miRNA	27542490	27542592	82.9	-	.	ID=miRNA_000205;Name=MIR396;rfam_acc=RF00648;clan=-;score=82.9;evalue=7.1e-15;description=MIR396 microRNA precursor family
+VANPL_A_00008	cmscan	miRNA	30256459	30256582	70.4	-	.	ID=miRNA_000206;Name=MIR408;rfam_acc=RF00690;clan=-;score=70.4;evalue=4.7e-14;description=MIR408 microRNA precursor family
+VANPL_A_00008	cmscan	snoRNA	12967237	12967357	99.9	-	.	ID=snoRNA_000207;Name=snoR80;rfam_acc=RF01224;clan=CL00038;score=99.9;evalue=5.4e-14;description=Small nucleolar RNA snoR80
+VANPL_A_00008	cmscan	miRNA	20412863	20412945	69.6	-	.	ID=miRNA_000208;Name=MIR395;rfam_acc=RF00451;clan=-;score=69.6;evalue=2.4e-11;description=mir-395 microRNA precursor family
+VANPL_A_00008	cmscan	snoRNA	6389524	6389688	79.0	-	.	ID=snoRNA_000209;Name=snoR143;rfam_acc=RF01432;clan=-;score=79.0;evalue=5.2e-11;description=small nucleolar RNA snoR143
+VANPL_A_00008	cmscan	snoRNA	13510756	13510895	70.9	-	.	ID=snoRNA_000210;Name=snoR134;rfam_acc=RF01430;clan=-;score=70.9;evalue=1.1e-10;description=small nucleolar RNA snoR134
+VANPL_A_00008	cmscan	snoRNA	6389110	6389269	73.5	-	.	ID=snoRNA_000211;Name=snoR143;rfam_acc=RF01432;clan=-;score=73.5;evalue=9.9e-10;description=small nucleolar RNA snoR143
+VANPL_A_00008	cmscan	snoRNA	20698957	20699052	68.8	+	.	ID=snoRNA_000212;Name=snoR44_J54;rfam_acc=RF00357;clan=CL00069;score=68.8;evalue=1.5e-09;description=Small nucleolar RNA R44/J54/Z268 family
+VANPL_A_00008	cmscan	snoRNA	29880767	29880849	65.1	+	.	ID=snoRNA_000213;Name=SNORD96;rfam_acc=RF00055;clan=CL00072;score=65.1;evalue=6.1e-09;description=Small nucleolar RNA SNORD96 family
+VANPL_A_00008	cmscan	snoRNA	29880950	29881033	65.1	+	.	ID=snoRNA_000214;Name=SNORD96;rfam_acc=RF00055;clan=CL00072;score=65.1;evalue=6.2e-09;description=Small nucleolar RNA SNORD96 family
+VANPL_A_00008	cmscan	miRNA	20413291	20413368	60.8	+	.	ID=miRNA_000215;Name=MIR395;rfam_acc=RF00451;clan=-;score=60.8;evalue=6.4e-09;description=mir-395 microRNA precursor family
+VANPL_A_00008	cmscan	snRNA	25516030	25516170	59.1	+	.	ID=snRNA_000216;Name=U4;rfam_acc=RF00015;clan=CL00007;score=59.1;evalue=9e-09;description=U4 spliceosomal RNA
+VANPL_A_00008	cmscan	snRNA	6163041	6163180	54.4	-	.	ID=snRNA_000217;Name=U4;rfam_acc=RF00015;clan=CL00007;score=54.4;evalue=1.6e-07;description=U4 spliceosomal RNA
+VANPL_A_00008	cmscan	snoRNA	13509230	13509332	73.9	-	.	ID=snoRNA_000218;Name=snoR97;rfam_acc=RF01215;clan=-;score=73.9;evalue=1.8e-07;description=Small nucleolar RNA snoR97
+VANPL_A_00008	cmscan	snRNA	19388329	19388428	45.3	+	.	ID=snRNA_000219;Name=U6;rfam_acc=RF00026;clan=CL00009;score=45.3;evalue=2.7e-06;description=U6 spliceosomal RNA
+VANPL_A_00008	cmscan	snoRNA	21937657	21937775	56.5	-	.	ID=snoRNA_000220;Name=snoR104;rfam_acc=RF01220;clan=-;score=56.5;evalue=7.2e-05;description=Small nucleolar RNA snoR104
+VANPL_A_00008	cmscan	snoRNA	20699403	20699479	40.9	+	.	ID=snoRNA_000221;Name=snoR122;rfam_acc=RF02407;clan=-;score=40.9;evalue=0.37;description=Small nucleolar RNA snoR122
+VANPL_A_00009	cmscan	snRNA	3093642	3093838	172.7	+	.	ID=snRNA_000222;Name=U2;rfam_acc=RF00004;clan=CL00006;score=172.7;evalue=1.8e-34;description=U2 spliceosomal RNA
+VANPL_A_00009	cmscan	ncRNA	7820997	7821071	97.6	-	.	ID=ncRNA_000223;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=97.6;evalue=9.7e-19;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00009	cmscan	miRNA	10371620	10371716	68.3	-	.	ID=miRNA_000224;Name=MIR169_2;rfam_acc=RF00645;clan=CL00098;score=68.3;evalue=2e-15;description=MIR169_2 microRNA precursor family
+VANPL_A_00009	cmscan	snoRNA	1095180	1095259	84.4	-	.	ID=snoRNA_000225;Name=snoR12;rfam_acc=RF00204;clan=-;score=84.4;evalue=1.5e-13;description=Small nucleolar RNA R12
+VANPL_A_00009	cmscan	snRNA	26619567	26619684	92.2	+	.	ID=snRNA_000226;Name=U5;rfam_acc=RF00020;clan=-;score=92.2;evalue=6.5e-13;description=U5 spliceosomal RNA
+VANPL_A_00009	cmscan	snoRNA	1772713	1772805	81.9	-	.	ID=snoRNA_000227;Name=snoR8a;rfam_acc=RF01284;clan=-;score=81.9;evalue=3.8e-12;description=Small nucleolar RNA snoR8a
+VANPL_A_00009	cmscan	ncRNA	28410795	28410847	71.8	-	.	ID=ncRNA_000228;Name=Plastid-psbl-rps4;rfam_acc=RF04351;clan=-;score=71.8;evalue=1.1e-11;description=Plastid-psbl-rps4 3UTR RNA
+VANPL_A_00009	cmscan	miRNA	10371622	10371718	56.5	+	.	ID=miRNA_000229;Name=MIR169_2;rfam_acc=RF00645;clan=CL00098;score=56.5;evalue=2.5e-11;description=MIR169_2 microRNA precursor family
+VANPL_A_00009	cmscan	snRNA	30550588	30550692	55.8	-	.	ID=snRNA_000230;Name=U6;rfam_acc=RF00026;clan=CL00009;score=55.8;evalue=1.8e-09;description=U6 spliceosomal RNA
+VANPL_A_00009	cmscan	snoRNA	23916378	23916461	68.3	-	.	ID=snoRNA_000231;Name=SNORD33;rfam_acc=RF00133;clan=CL00054;score=68.3;evalue=9e-09;description=Small nucleolar RNA Z195/SNORD33/SNORD32 family
+VANPL_A_00009	cmscan	snRNA	30555516	30555622	48.8	-	.	ID=snRNA_000232;Name=U6;rfam_acc=RF00026;clan=CL00009;score=48.8;evalue=2.5e-07;description=U6 spliceosomal RNA
+VANPL_A_00009	cmscan	snoRNA	3488520	3488597	52.6	+	.	ID=snoRNA_000233;Name=snoR35;rfam_acc=RF01281;clan=CL00053;score=52.6;evalue=7.5e-06;description=Small nucleolar RNA snoR35
+VANPL_A_00009	cmscan	snoRNA	1095046	1095127	50.5	-	.	ID=snoRNA_000234;Name=SNORD24;rfam_acc=RF00069;clan=-;score=50.5;evalue=0.00061;description=Small nucleolar RNA SNORD24
+VANPL_A_00009	cmscan	snRNA	3283466	3283574	37.6	-	.	ID=snRNA_000235;Name=U6atac;rfam_acc=RF00619;clan=CL00009;score=37.6;evalue=0.00089;description=U6atac minor spliceosomal RNA
+VANPL_A_00009	cmscan	snoRNA	33315538	33315667	46.8	-	.	ID=snoRNA_000236;Name=snoR83;rfam_acc=RF01227;clan=-;score=46.8;evalue=0.00098;description=Small nucleolar RNA snoR83
+VANPL_A_00009	cmscan	snoRNA	1771191	1771286	46.7	-	.	ID=snoRNA_000237;Name=snoR99;rfam_acc=RF01208;clan=-;score=46.7;evalue=0.031;description=Small nucleolar RNA snoR99
+VANPL_A_00010	cmscan	snRNA	15332053	15332204	109.0	+	.	ID=snRNA_000238;Name=U4;rfam_acc=RF00015;clan=CL00007;score=109.0;evalue=5.9e-22;description=U4 spliceosomal RNA
+VANPL_A_00010	cmscan	snRNA	17499679	17499859	110.5	+	.	ID=snRNA_000239;Name=U2;rfam_acc=RF00004;clan=CL00006;score=110.5;evalue=1.4e-19;description=U2 spliceosomal RNA
+VANPL_A_00010	cmscan	ncRNA	17434836	17434909	84.3	+	.	ID=ncRNA_000240;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=84.3;evalue=4e-15;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00010	cmscan	snRNA	9239347	9239452	72.0	+	.	ID=snRNA_000241;Name=U6;rfam_acc=RF00026;clan=CL00009;score=72.0;evalue=2.2e-14;description=U6 spliceosomal RNA
+VANPL_A_00010	cmscan	miRNA	5456928	5457017	79.4	+	.	ID=miRNA_000242;Name=MIR160;rfam_acc=RF00247;clan=-;score=79.4;evalue=2.7e-14;description=mir-160 microRNA precursor family
+VANPL_A_00010	cmscan	snRNA	8146891	8147006	94.3	+	.	ID=snRNA_000243;Name=U5;rfam_acc=RF00020;clan=-;score=94.3;evalue=2.1e-13;description=U5 spliceosomal RNA
+VANPL_A_00010	cmscan	miRNA	10556084	10556167	76.1	+	.	ID=miRNA_000244;Name=MIR393;rfam_acc=RF02516;clan=-;score=76.1;evalue=2.4e-13;description=mir-393 microRNA precursor family
+VANPL_A_00010	cmscan	ncRNA	3213747	3213821	76.2	+	.	ID=ncRNA_000245;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=76.2;evalue=6.3e-13;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00010	cmscan	snRNA	9752155	9752271	91.4	+	.	ID=snRNA_000246;Name=U5;rfam_acc=RF00020;clan=-;score=91.4;evalue=9.7e-13;description=U5 spliceosomal RNA
+VANPL_A_00010	cmscan	ncRNA	15227156	15227196	68.2	+	.	ID=ncRNA_000247;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=68.2;evalue=1.2e-11;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00010	cmscan	snoRNA	6686840	6686931	76.8	-	.	ID=snoRNA_000248;Name=snoR26;rfam_acc=RF01286;clan=-;score=76.8;evalue=1.8e-11;description=Small nucleolar RNA snoR26
+VANPL_A_00010	cmscan	snRNA	2149407	2149509	59.8	+	.	ID=snRNA_000249;Name=U6;rfam_acc=RF00026;clan=CL00009;score=59.8;evalue=1.2e-10;description=U6 spliceosomal RNA
+VANPL_A_00010	cmscan	ncRNA	16367805	16367845	62.0	-	.	ID=ncRNA_000250;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=62.0;evalue=6.9e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00010	cmscan	snoRNA	24314910	24315000	69.9	+	.	ID=snoRNA_000251;Name=snoR11;rfam_acc=RF00349;clan=-;score=69.9;evalue=2.6e-09;description=Small nucleolar RNA R11/Z151
+VANPL_A_00010	cmscan	miRNA	10556085	10556168	61.3	-	.	ID=miRNA_000252;Name=MIR393;rfam_acc=RF02516;clan=-;score=61.3;evalue=3e-09;description=mir-393 microRNA precursor family
+VANPL_A_00010	cmscan	snRNA	8156632	8156742	49.5	+	.	ID=snRNA_000253;Name=U5;rfam_acc=RF00020;clan=-;score=49.5;evalue=0.0033;description=U5 spliceosomal RNA
+VANPL_A_00010	cmscan	snoRNA	22482049	22482127	30.0	+	.	ID=snoRNA_000254;Name=SNORD36;rfam_acc=RF00049;clan=CL00051;score=30.0;evalue=76;description=Small nucleolar RNA SNORD36
+VANPL_A_00011	cmscan	miRNA	43954277	43954497	93.5	+	.	ID=miRNA_000255;Name=MIR159;rfam_acc=RF00638;clan=-;score=93.5;evalue=7.2e-17;description=MIR159 microRNA precursor family
+VANPL_A_00011	cmscan	ncRNA	26418589	26418663	85.9	+	.	ID=ncRNA_000256;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=85.9;evalue=2.2e-15;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00011	cmscan	snoRNA	3936878	3936977	83.1	+	.	ID=snoRNA_000257;Name=snoR30;rfam_acc=RF00046;clan=CL00073;score=83.1;evalue=2.7e-15;description=Small nucleolar RNA R30/Z108
+VANPL_A_00011	cmscan	miRNA	42176361	42176450	78.5	-	.	ID=miRNA_000258;Name=MIR156;rfam_acc=RF00073;clan=-;score=78.5;evalue=3.7e-13;description=mir-156 microRNA precursor family
+VANPL_A_00011	cmscan	ncRNA	41342184	41342230	68.8	+	.	ID=ncRNA_000259;Name=Plastid-ycf3;rfam_acc=RF04333;clan=-;score=68.8;evalue=3.6e-12;description=Plastid-ycf3 group II-D1 intron
+VANPL_A_00011	cmscan	snoRNA	5067267	5067353	72.9	-	.	ID=snoRNA_000260;Name=snoR14;rfam_acc=RF01280;clan=CL00076;score=72.9;evalue=3.4e-11;description=Small nucleolar RNA snoR14
+VANPL_A_00011	cmscan	snoRNA	5064096	5064182	65.1	-	.	ID=snoRNA_000261;Name=snoR14;rfam_acc=RF01280;clan=CL00076;score=65.1;evalue=4.1e-09;description=Small nucleolar RNA snoR14
+VANPL_A_00011	cmscan	ncRNA	41342726	41342766	53.6	+	.	ID=ncRNA_000262;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=53.6;evalue=2.5e-07;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00011	cmscan	snoRNA	5074518	5074604	54.7	-	.	ID=snoRNA_000263;Name=snoR14;rfam_acc=RF01280;clan=CL00076;score=54.7;evalue=2.3e-06;description=Small nucleolar RNA snoR14
+VANPL_A_00011	cmscan	snoRNA	3937018	3937111	59.3	+	.	ID=snoRNA_000264;Name=snoR31;rfam_acc=RF01288;clan=-;score=59.3;evalue=1e-05;description=Small nucleolar RNA snoR31
+VANPL_A_00011	cmscan	snoRNA	5073041	5073127	43.3	-	.	ID=snoRNA_000265;Name=snoR14;rfam_acc=RF01280;clan=CL00076;score=43.3;evalue=0.0024;description=Small nucleolar RNA snoR14
+VANPL_A_00011	cmscan	snoRNA	27683934	27684023	47.2	-	.	ID=snoRNA_000266;Name=snoR109;rfam_acc=RF01206;clan=-;score=47.2;evalue=0.0067;description=Small nucleolar RNA snoR109
+VANPL_A_00011	cmscan	snoRNA	27684522	27684614	45.4	-	.	ID=snoRNA_000267;Name=snoR109;rfam_acc=RF01206;clan=-;score=45.4;evalue=0.017;description=Small nucleolar RNA snoR109
+VANPL_A_00012	cmscan	ncRNA	26748670	26748971	202.3	-	.	ID=ncRNA_000268;Name=Plant_SRP;rfam_acc=RF01855;clan=CL00003;score=202.3;evalue=2e-56;description=Plant signal recognition particle RNA
+VANPL_A_00012	cmscan	snRNA	31276407	31276566	132.0	-	.	ID=snRNA_000269;Name=U1;rfam_acc=RF00003;clan=CL00005;score=132.0;evalue=2.6e-31;description=U1 spliceosomal RNA
+VANPL_A_00012	cmscan	miRNA	22062606	22062792	134.6	+	.	ID=miRNA_000270;Name=MIR159;rfam_acc=RF00638;clan=-;score=134.6;evalue=1.5e-27;description=MIR159 microRNA precursor family
+VANPL_A_00012	cmscan	miRNA	25809789	25809983	112.7	+	.	ID=miRNA_000271;Name=MIR159;rfam_acc=RF00638;clan=-;score=112.7;evalue=5.8e-22;description=MIR159 microRNA precursor family
+VANPL_A_00012	cmscan	miRNA	21629812	21629932	97.0	-	.	ID=miRNA_000272;Name=MIR390;rfam_acc=RF00689;clan=-;score=97.0;evalue=5.4e-19;description=MIR390 microRNA precursor family
+VANPL_A_00012	cmscan	snRNA	28062734	28062862	82.8	-	.	ID=snRNA_000273;Name=U6atac;rfam_acc=RF00619;clan=CL00009;score=82.8;evalue=1.5e-16;description=U6atac minor spliceosomal RNA
+VANPL_A_00012	cmscan	miRNA	22062604	22062790	90.5	-	.	ID=miRNA_000274;Name=MIR159;rfam_acc=RF00638;clan=-;score=90.5;evalue=2.9e-16;description=MIR159 microRNA precursor family
+VANPL_A_00012	cmscan	miRNA	29861696	29861822	69.0	-	.	ID=miRNA_000275;Name=MIR166;rfam_acc=RF00075;clan=-;score=69.0;evalue=1.7e-12;description=mir-166 microRNA precursor family
+VANPL_A_00012	cmscan	ncRNA	1668695	1668735	68.2	-	.	ID=ncRNA_000276;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=68.2;evalue=1.2e-11;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00012	cmscan	snoRNA	32055132	32055260	77.3	-	.	ID=snoRNA_000277;Name=snoR86;rfam_acc=RF00303;clan=-;score=77.3;evalue=1.1e-10;description=Small nucleolar RNA snoR86
+VANPL_A_00012	cmscan	snoRNA	32463676	32463751	66.6	+	.	ID=snoRNA_000278;Name=snoR66;rfam_acc=RF00202;clan=-;score=66.6;evalue=3.2e-10;description=Small nucleolar RNA R66
+VANPL_A_00012	cmscan	snoRNA	8276302	8276442	81.7	-	.	ID=snoRNA_000279;Name=snoR77;rfam_acc=RF01230;clan=-;score=81.7;evalue=4.2e-10;description=Small nucleolar RNA snoR77
+VANPL_A_00012	cmscan	ncRNA	30575037	30575077	62.5	+	.	ID=ncRNA_000280;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=62.5;evalue=5e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00012	cmscan	snoRNA	32463866	32463952	68.2	+	.	ID=snoRNA_000281;Name=snoR118;rfam_acc=RF01424;clan=CL00071;score=68.2;evalue=2.7e-08;description=small nucleolar RNA snoR118
+VANPL_A_00012	cmscan	snoRNA	5308889	5308979	58.2	-	.	ID=snoRNA_000282;Name=snoR38;rfam_acc=RF00213;clan=-;score=58.2;evalue=2.2e-05;description=Small nucleolar RNA R38
+VANPL_A_00012	cmscan	snoRNA	30713653	30713720	30.6	+	.	ID=snoRNA_000283;Name=SNORD36;rfam_acc=RF00049;clan=CL00051;score=30.6;evalue=57;description=Small nucleolar RNA SNORD36
+VANPL_A_00013	cmscan	ncRNA	12605468	12605768	189.5	-	.	ID=ncRNA_000284;Name=Plant_SRP;rfam_acc=RF01855;clan=CL00003;score=189.5;evalue=1.3e-52;description=Plant signal recognition particle RNA
+VANPL_A_00013	cmscan	ncRNA	12599796	12600098	176.3	-	.	ID=ncRNA_000285;Name=Plant_SRP;rfam_acc=RF01855;clan=CL00003;score=176.3;evalue=1.6e-48;description=Plant signal recognition particle RNA
+VANPL_A_00013	cmscan	snoRNA	15127180	15127322	92.4	-	.	ID=snoRNA_000286;Name=snoR135;rfam_acc=RF01431;clan=-;score=92.4;evalue=3.3e-15;description=small nucleolar RNA snoR135
+VANPL_A_00013	cmscan	miRNA	15738266	15738366	68.5	+	.	ID=miRNA_000287;Name=MIR171_1;rfam_acc=RF00643;clan=CL00099;score=68.5;evalue=2.4e-09;description=MIR171_1 microRNA precursor family
+VANPL_A_00013	cmscan	snRNA	2237115	2237220	53.0	+	.	ID=snRNA_000288;Name=U6;rfam_acc=RF00026;clan=CL00009;score=53.0;evalue=8.6e-09;description=U6 spliceosomal RNA
+VANPL_A_00013	cmscan	miRNA	15738264	15738364	56.6	-	.	ID=miRNA_000289;Name=MIR171_1;rfam_acc=RF00643;clan=CL00099;score=56.6;evalue=2.1e-06;description=MIR171_1 microRNA precursor family
+VANPL_A_00014	cmscan	ncRNA	9450960	9451184	81.7	+	.	ID=ncRNA_000290;Name=RNase_MRP;rfam_acc=RF00030;clan=CL00002;score=81.7;evalue=2.1e-19;description=RNase MRP
+VANPL_A_00014	cmscan	miRNA	9445262	9445348	69.0	+	.	ID=miRNA_000291;Name=MIR168;rfam_acc=RF00677;clan=-;score=69.0;evalue=1.1e-12;description=MIR168 microRNA precursor family
+VANPL_A_00014	cmscan	ncRNA	16554977	16555017	68.2	+	.	ID=ncRNA_000292;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=68.2;evalue=7.5e-12;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00014	cmscan	miRNA	8198334	8198463	73.3	+	.	ID=miRNA_000293;Name=MIR169_5;rfam_acc=RF00865;clan=CL00098;score=73.3;evalue=5.2e-11;description=MIR169_5 microRNA precursor family
+VANPL_A_00014	cmscan	ncRNA	2712105	2712180	68.0	-	.	ID=ncRNA_000294;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=68.0;evalue=7e-11;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00014	cmscan	ncRNA	6813408	6813448	62.3	-	.	ID=ncRNA_000295;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=62.3;evalue=3.5e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00014	cmscan	miRNA	8198341	8198452	51.2	-	.	ID=miRNA_000296;Name=MIR169_2;rfam_acc=RF00645;clan=CL00098;score=51.2;evalue=1.1e-09;description=MIR169_2 microRNA precursor family
+VANPL_A_00014	cmscan	snoRNA	7753996	7754122	70.5	-	.	ID=snoRNA_000297;Name=snoR74;rfam_acc=RF01231;clan=-;score=70.5;evalue=6.5e-07;description=Small nucleolar RNA snoR74
+VANPL_A_00014	cmscan	snoRNA	7753132	7753258	65.7	-	.	ID=snoRNA_000298;Name=snoR74;rfam_acc=RF01231;clan=-;score=65.7;evalue=5.7e-06;description=Small nucleolar RNA snoR74
+VANPL_A_00014	cmscan	snoRNA	7753544	7753670	61.3	-	.	ID=snoRNA_000299;Name=snoR74;rfam_acc=RF01231;clan=-;score=61.3;evalue=4.4e-05;description=Small nucleolar RNA snoR74
+VANPL_A_00000	cmscan	ncRNA	67223967	67224041	104.6	+	.	ID=ncRNA_000300;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=104.6;evalue=2.9e-19;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	449974649	449974723	103.4	-	.	ID=ncRNA_000301;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=103.4;evalue=6.3e-19;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	532332513	532332587	103.4	+	.	ID=ncRNA_000302;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=103.4;evalue=6.3e-19;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	702238512	702238586	103.4	+	.	ID=ncRNA_000303;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=103.4;evalue=6.3e-19;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	782314122	782314196	103.4	+	.	ID=ncRNA_000304;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=103.4;evalue=6.3e-19;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	798885284	798885358	103.4	+	.	ID=ncRNA_000305;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=103.4;evalue=6.3e-19;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	807307537	807307611	103.4	-	.	ID=ncRNA_000306;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=103.4;evalue=6.3e-19;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	841969554	841969628	103.4	+	.	ID=ncRNA_000307;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=103.4;evalue=6.3e-19;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	847521086	847521160	103.4	-	.	ID=ncRNA_000308;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=103.4;evalue=6.3e-19;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	730035224	730035298	101.3	-	.	ID=ncRNA_000309;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=101.3;evalue=2.4e-18;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	834918954	834919028	100.7	+	.	ID=ncRNA_000310;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=100.7;evalue=3.4e-18;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	245607932	245608006	99.6	+	.	ID=ncRNA_000311;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=99.6;evalue=7.2e-18;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	816750971	816751045	98.9	+	.	ID=ncRNA_000312;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=98.9;evalue=1.1e-17;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	554512874	554512948	98.1	+	.	ID=ncRNA_000313;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=98.1;evalue=1.8e-17;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	snRNA	687833535	687833641	86.8	+	.	ID=snRNA_000314;Name=U6;rfam_acc=RF00026;clan=CL00009;score=86.8;evalue=1.9e-17;description=U6 spliceosomal RNA
+VANPL_A_00000	cmscan	ncRNA	814103545	814103619	97.6	-	.	ID=ncRNA_000315;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=97.6;evalue=2.4e-17;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	588410469	588410543	94.4	-	.	ID=ncRNA_000316;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=94.4;evalue=1.8e-16;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	554490807	554490881	92.2	-	.	ID=ncRNA_000317;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=92.2;evalue=7.2e-16;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	miRNA	94053361	94053470	89.8	-	.	ID=miRNA_000318;Name=MIR172;rfam_acc=RF00452;clan=-;score=89.8;evalue=1.6e-15;description=mir-172 microRNA precursor family
+VANPL_A_00000	cmscan	snRNA	272346967	272347073	80.0	-	.	ID=snRNA_000319;Name=U6;rfam_acc=RF00026;clan=CL00009;score=80.0;evalue=2.2e-15;description=U6 spliceosomal RNA
+VANPL_A_00000	cmscan	ncRNA	378720350	378720424	88.7	-	.	ID=ncRNA_000320;Name=Plastid-ycf2;rfam_acc=RF04354;clan=-;score=88.7;evalue=6.7e-15;description=Plastid-ycf2 5UTR RNA
+VANPL_A_00000	cmscan	snRNA	603097087	603097195	77.9	-	.	ID=snRNA_000321;Name=U6;rfam_acc=RF00026;clan=CL00009;score=77.9;evalue=9.2e-15;description=U6 spliceosomal RNA
+VANPL_A_00000	cmscan	ncRNA	554496193	554496241	79.5	+	.	ID=ncRNA_000322;Name=Plastid-ndhA-ndhB-1;rfam_acc=RF04356;clan=CL00155;score=79.5;evalue=1.6e-14;description=Plastid-ndhA-ndhB-1 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	554507510	554507558	79.5	-	.	ID=ncRNA_000323;Name=Plastid-ndhA-ndhB-1;rfam_acc=RF04356;clan=CL00155;score=79.5;evalue=1.6e-14;description=Plastid-ndhA-ndhB-1 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	702233222	702233270	79.5	-	.	ID=ncRNA_000324;Name=Plastid-ndhA-ndhB-1;rfam_acc=RF04356;clan=CL00155;score=79.5;evalue=1.6e-14;description=Plastid-ndhA-ndhB-1 group II-D5 intron
+VANPL_A_00000	cmscan	snRNA	275670564	275670662	76.8	-	.	ID=snRNA_000325;Name=U6;rfam_acc=RF00026;clan=CL00009;score=76.8;evalue=2.1e-14;description=U6 spliceosomal RNA
+VANPL_A_00000	cmscan	snRNA	411702233	411702340	76.2	-	.	ID=snRNA_000326;Name=U6;rfam_acc=RF00026;clan=CL00009;score=76.2;evalue=3.1e-14;description=U6 spliceosomal RNA
+VANPL_A_00000	cmscan	ncRNA	832098259	832098307	78.2	-	.	ID=ncRNA_000327;Name=Plastid-ndhA-ndhB-1;rfam_acc=RF04356;clan=CL00155;score=78.2;evalue=4e-14;description=Plastid-ndhA-ndhB-1 group II-D5 intron
+VANPL_A_00000	cmscan	miRNA	478768887	478768979	78.8	+	.	ID=miRNA_000328;Name=MIR172;rfam_acc=RF00452;clan=-;score=78.8;evalue=1.7e-12;description=mir-172 microRNA precursor family
+VANPL_A_00000	cmscan	ncRNA	782308889	782308937	71.9	-	.	ID=ncRNA_000329;Name=Plastid-ndhA-ndhB-1;rfam_acc=RF04356;clan=CL00155;score=71.9;evalue=3.1e-12;description=Plastid-ndhA-ndhB-1 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	798880050	798880098	71.9	-	.	ID=ncRNA_000330;Name=Plastid-ndhA-ndhB-1;rfam_acc=RF04356;clan=CL00155;score=71.9;evalue=3.1e-12;description=Plastid-ndhA-ndhB-1 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	807312797	807312845	71.9	+	.	ID=ncRNA_000331;Name=Plastid-ndhA-ndhB-1;rfam_acc=RF04356;clan=CL00155;score=71.9;evalue=3.1e-12;description=Plastid-ndhA-ndhB-1 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	841964320	841964368	71.9	-	.	ID=ncRNA_000332;Name=Plastid-ndhA-ndhB-1;rfam_acc=RF04356;clan=CL00155;score=71.9;evalue=3.1e-12;description=Plastid-ndhA-ndhB-1 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	847526346	847526394	71.9	+	.	ID=ncRNA_000333;Name=Plastid-ndhA-ndhB-1;rfam_acc=RF04356;clan=CL00155;score=71.9;evalue=3.1e-12;description=Plastid-ndhA-ndhB-1 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	832070178	832070227	70.7	-	.	ID=ncRNA_000334;Name=Plastid-ndhA-ndhB-1;rfam_acc=RF04356;clan=CL00155;score=70.7;evalue=7.4e-12;description=Plastid-ndhA-ndhB-1 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	67218663	67218711	68.1	-	.	ID=ncRNA_000335;Name=Plastid-ndhA-ndhB-1;rfam_acc=RF04356;clan=CL00155;score=68.1;evalue=4.6e-11;description=Plastid-ndhA-ndhB-1 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	843444940	843444986	68.8	+	.	ID=ncRNA_000336;Name=Plastid-ycf3;rfam_acc=RF04333;clan=-;score=68.8;evalue=6.8e-11;description=Plastid-ycf3 group II-D1 intron
+VANPL_A_00000	cmscan	ncRNA	554480409	554480449	69.2	+	.	ID=ncRNA_000337;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=69.2;evalue=1.6e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	695197586	695197726	83.6	-	.	ID=ncRNA_000338;Name=Plastid-psbJ-2;rfam_acc=RF04338;clan=CL00152;score=83.6;evalue=1.7e-10;description=Plastid-psbJ-2 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	702269664	702269804	83.6	+	.	ID=ncRNA_000339;Name=Plastid-psbJ-2;rfam_acc=RF04338;clan=CL00152;score=83.6;evalue=1.7e-10;description=Plastid-psbJ-2 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	798860405	798860545	83.6	-	.	ID=ncRNA_000340;Name=Plastid-psbJ-2;rfam_acc=RF04338;clan=CL00152;score=83.6;evalue=1.7e-10;description=Plastid-psbJ-2 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	807332379	807332519	83.6	+	.	ID=ncRNA_000341;Name=Plastid-psbJ-2;rfam_acc=RF04338;clan=CL00152;score=83.6;evalue=1.7e-10;description=Plastid-psbJ-2 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	847545930	847546070	83.6	+	.	ID=ncRNA_000342;Name=Plastid-psbJ-2;rfam_acc=RF04338;clan=CL00152;score=83.6;evalue=1.7e-10;description=Plastid-psbJ-2 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	423343437	423343489	71.8	-	.	ID=ncRNA_000343;Name=Plastid-psbl-rps4;rfam_acc=RF04351;clan=-;score=71.8;evalue=2.8e-10;description=Plastid-psbl-rps4 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	645218777	645218829	71.8	-	.	ID=ncRNA_000344;Name=Plastid-psbl-rps4;rfam_acc=RF04351;clan=-;score=71.8;evalue=2.8e-10;description=Plastid-psbl-rps4 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	730047152	730047204	71.8	+	.	ID=ncRNA_000345;Name=Plastid-psbl-rps4;rfam_acc=RF04351;clan=-;score=71.8;evalue=2.8e-10;description=Plastid-psbl-rps4 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	875076856	875076908	71.8	+	.	ID=ncRNA_000346;Name=Plastid-psbl-rps4;rfam_acc=RF04351;clan=-;score=71.8;evalue=2.8e-10;description=Plastid-psbl-rps4 3UTR RNA
+VANPL_A_00000	cmscan	miRNA	94053361	94053470	70.6	+	.	ID=miRNA_000347;Name=MIR172;rfam_acc=RF00452;clan=-;score=70.6;evalue=3.1e-10;description=mir-172 microRNA precursor family
+VANPL_A_00000	cmscan	ncRNA	554457757	554457797	68.2	-	.	ID=ncRNA_000348;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=68.2;evalue=3.3e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	702208528	702208568	68.2	+	.	ID=ncRNA_000349;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=68.2;evalue=3.3e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	702249021	702249061	68.2	-	.	ID=ncRNA_000350;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=68.2;evalue=3.3e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	730024767	730024807	68.2	+	.	ID=ncRNA_000351;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=68.2;evalue=3.3e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	782324633	782324673	68.2	-	.	ID=ncRNA_000352;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=68.2;evalue=3.3e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	782359981	782360021	68.2	+	.	ID=ncRNA_000353;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=68.2;evalue=3.3e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	798895795	798895835	68.2	-	.	ID=ncRNA_000354;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=68.2;evalue=3.3e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	807297061	807297101	68.2	+	.	ID=ncRNA_000355;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=68.2;evalue=3.3e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	841980066	841980106	68.2	-	.	ID=ncRNA_000356;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=68.2;evalue=3.3e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	847510590	847510630	68.2	+	.	ID=ncRNA_000357;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=68.2;evalue=3.3e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	93228283	93228329	66.0	-	.	ID=ncRNA_000358;Name=Plastid-ycf3;rfam_acc=RF04333;clan=-;score=66.0;evalue=4e-10;description=Plastid-ycf3 group II-D1 intron
+VANPL_A_00000	cmscan	ncRNA	554496198	554496238	67.3	+	.	ID=ncRNA_000359;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=67.3;evalue=5.7e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	554507513	554507553	67.3	-	.	ID=ncRNA_000360;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=67.3;evalue=5.7e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	702233225	702233265	67.3	-	.	ID=ncRNA_000361;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=67.3;evalue=5.7e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	487298132	487298172	67.0	+	.	ID=ncRNA_000362;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=67.0;evalue=7e-10;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	695202968	695203069	91.1	-	.	ID=ncRNA_000363;Name=Plastid-rps12;rfam_acc=RF04345;clan=-;score=91.1;evalue=9.2e-10;description=Plastid-rps12 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	702264304	702264405	91.1	+	.	ID=ncRNA_000364;Name=Plastid-rps12;rfam_acc=RF04345;clan=-;score=91.1;evalue=9.2e-10;description=Plastid-rps12 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	782294596	782294697	91.1	-	.	ID=ncRNA_000365;Name=Plastid-rps12;rfam_acc=RF04345;clan=-;score=91.1;evalue=9.2e-10;description=Plastid-rps12 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	798865760	798865861	91.1	-	.	ID=ncRNA_000366;Name=Plastid-rps12;rfam_acc=RF04345;clan=-;score=91.1;evalue=9.2e-10;description=Plastid-rps12 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	807327036	807327137	91.1	+	.	ID=ncRNA_000367;Name=Plastid-rps12;rfam_acc=RF04345;clan=-;score=91.1;evalue=9.2e-10;description=Plastid-rps12 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	847540586	847540687	91.1	+	.	ID=ncRNA_000368;Name=Plastid-rps12;rfam_acc=RF04345;clan=-;score=91.1;evalue=9.2e-10;description=Plastid-rps12 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	554547543	554547589	64.7	+	.	ID=ncRNA_000369;Name=Plastid-ycf3;rfam_acc=RF04333;clan=-;score=64.7;evalue=9.5e-10;description=Plastid-ycf3 group II-D1 intron
+VANPL_A_00000	cmscan	ncRNA	782308892	782308932	66.4	-	.	ID=ncRNA_000370;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=66.4;evalue=1e-09;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	798880053	798880093	66.4	-	.	ID=ncRNA_000371;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=66.4;evalue=1e-09;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	807312802	807312842	66.4	+	.	ID=ncRNA_000372;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=66.4;evalue=1e-09;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	841964323	841964363	66.4	-	.	ID=ncRNA_000373;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=66.4;evalue=1e-09;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	847526351	847526391	66.4	+	.	ID=ncRNA_000374;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=66.4;evalue=1e-09;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	805248507	805248559	68.7	+	.	ID=ncRNA_000375;Name=Plastid-psbl-rps4;rfam_acc=RF04351;clan=-;score=68.7;evalue=1.9e-09;description=Plastid-psbl-rps4 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	867729280	867729332	68.7	-	.	ID=ncRNA_000376;Name=Plastid-psbl-rps4;rfam_acc=RF04351;clan=-;score=68.7;evalue=1.9e-09;description=Plastid-psbl-rps4 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	163447708	163447748	65.2	-	.	ID=ncRNA_000377;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=65.2;evalue=2.4e-09;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	832098262	832098302	64.7	-	.	ID=ncRNA_000378;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=64.7;evalue=3.1e-09;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	797527689	797527790	87.5	+	.	ID=ncRNA_000379;Name=Plastid-rps12;rfam_acc=RF04345;clan=-;score=87.5;evalue=5.2e-09;description=Plastid-rps12 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	702227741	702227787	66.7	+	.	ID=ncRNA_000380;Name=Plastid-petD;rfam_acc=RF04336;clan=-;score=66.7;evalue=6.2e-09;description=Plastid-petD group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	702255706	702255752	66.7	-	.	ID=ncRNA_000381;Name=Plastid-petD;rfam_acc=RF04336;clan=-;score=66.7;evalue=6.2e-09;description=Plastid-petD group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	782303272	782303318	66.7	+	.	ID=ncRNA_000382;Name=Plastid-petD;rfam_acc=RF04336;clan=-;score=66.7;evalue=6.2e-09;description=Plastid-petD group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	798874434	798874480	66.7	+	.	ID=ncRNA_000383;Name=Plastid-petD;rfam_acc=RF04336;clan=-;score=66.7;evalue=6.2e-09;description=Plastid-petD group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	807318417	807318463	66.7	-	.	ID=ncRNA_000384;Name=Plastid-petD;rfam_acc=RF04336;clan=-;score=66.7;evalue=6.2e-09;description=Plastid-petD group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	847531967	847532013	66.7	-	.	ID=ncRNA_000385;Name=Plastid-petD;rfam_acc=RF04336;clan=-;score=66.7;evalue=6.2e-09;description=Plastid-petD group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	687950601	687950641	62.7	-	.	ID=ncRNA_000386;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=62.7;evalue=1.2e-08;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	224720369	224720409	62.4	+	.	ID=ncRNA_000387;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=62.4;evalue=1.4e-08;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	224721931	224721971	62.4	+	.	ID=ncRNA_000388;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=62.4;evalue=1.4e-08;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	249931787	249931827	62.4	-	.	ID=ncRNA_000389;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=62.4;evalue=1.4e-08;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	736850668	736850708	61.8	+	.	ID=ncRNA_000390;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=61.8;evalue=2.1e-08;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	832070183	832070222	61.4	-	.	ID=ncRNA_000391;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=61.4;evalue=2.9e-08;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	67242449	67242488	61.0	-	.	ID=ncRNA_000392;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=61.0;evalue=3.6e-08;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	554535740	554535880	73.3	-	.	ID=ncRNA_000393;Name=Plastid-psbJ-2;rfam_acc=RF04338;clan=CL00152;score=73.3;evalue=3.8e-08;description=Plastid-psbJ-2 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	554548086	554548126	60.6	+	.	ID=ncRNA_000394;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=60.6;evalue=4.6e-08;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	386992697	386992737	60.2	-	.	ID=ncRNA_000395;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=60.2;evalue=6e-08;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	144437366	144437412	57.6	-	.	ID=ncRNA_000396;Name=Plastid-ycf3;rfam_acc=RF04333;clan=-;score=57.6;evalue=1e-07;description=Plastid-ycf3 group II-D1 intron
+VANPL_A_00000	cmscan	ncRNA	460429192	460429232	59.3	+	.	ID=ncRNA_000397;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=59.3;evalue=1.1e-07;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	802523740	802523779	58.9	+	.	ID=ncRNA_000398;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=58.9;evalue=1.5e-07;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	359863728	359863771	57.0	-	.	ID=ncRNA_000399;Name=Plastid-ycf3;rfam_acc=RF04333;clan=-;score=57.0;evalue=1.6e-07;description=Plastid-ycf3 group II-D1 intron
+VANPL_A_00000	cmscan	ncRNA	64257868	64257911	57.0	-	.	ID=ncRNA_000400;Name=Plastid-ycf3;rfam_acc=RF04333;clan=-;score=57.0;evalue=1.6e-07;description=Plastid-ycf3 group II-D1 intron
+VANPL_A_00000	cmscan	ncRNA	843445484	843445524	58.0	+	.	ID=ncRNA_000401;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=58.0;evalue=2.7e-07;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	93227740	93227780	57.9	-	.	ID=ncRNA_000402;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=57.9;evalue=2.8e-07;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	736850121	736850167	55.9	+	.	ID=ncRNA_000403;Name=Plastid-ycf3;rfam_acc=RF04333;clan=-;score=55.9;evalue=3.2e-07;description=Plastid-ycf3 group II-D1 intron
+VANPL_A_00000	cmscan	ncRNA	497623718	497623758	57.7	+	.	ID=ncRNA_000404;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=57.7;evalue=3.3e-07;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	702224905	702224965	69.3	-	.	ID=ncRNA_000405;Name=Plastid-psbN;rfam_acc=RF04353;clan=-;score=69.3;evalue=5.3e-07;description=Plastid-psbN 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	782300426	782300486	69.3	-	.	ID=ncRNA_000406;Name=Plastid-psbN;rfam_acc=RF04353;clan=-;score=69.3;evalue=5.3e-07;description=Plastid-psbN 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	798871588	798871648	69.3	-	.	ID=ncRNA_000407;Name=Plastid-psbN;rfam_acc=RF04353;clan=-;score=69.3;evalue=5.3e-07;description=Plastid-psbN 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	807321249	807321309	69.3	+	.	ID=ncRNA_000408;Name=Plastid-psbN;rfam_acc=RF04353;clan=-;score=69.3;evalue=5.3e-07;description=Plastid-psbN 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	847534799	847534859	69.3	+	.	ID=ncRNA_000409;Name=Plastid-psbN;rfam_acc=RF04353;clan=-;score=69.3;evalue=5.3e-07;description=Plastid-psbN 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	702258528	702258588	69.2	+	.	ID=ncRNA_000410;Name=Plastid-psbN;rfam_acc=RF04353;clan=-;score=69.2;evalue=5.6e-07;description=Plastid-psbN 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	436405549	436405589	55.8	+	.	ID=ncRNA_000411;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=55.8;evalue=1.1e-06;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	67218666	67218706	54.8	-	.	ID=ncRNA_000412;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=54.8;evalue=2.2e-06;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	797529458	797529519	65.3	+	.	ID=ncRNA_000413;Name=Plastid-psbN;rfam_acc=RF04353;clan=-;score=65.3;evalue=4.3e-06;description=Plastid-psbN 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	358414664	358414704	53.3	+	.	ID=ncRNA_000414;Name=Plastid-ndhA-ndhB-2;rfam_acc=RF04357;clan=CL00155;score=53.3;evalue=5.7e-06;description=Plastid-ndhA-ndhB-2 group II-D5 intron
+VANPL_A_00000	cmscan	ncRNA	46874235	46874326	66.3	-	.	ID=ncRNA_000415;Name=Plastid-rpl20;rfam_acc=RF04335;clan=-;score=66.3;evalue=0.00043;description=Plastid-rpl20 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	695201850	695201941	66.3	-	.	ID=ncRNA_000416;Name=Plastid-rpl20;rfam_acc=RF04335;clan=-;score=66.3;evalue=0.00043;description=Plastid-rpl20 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	702265431	702265522	66.3	+	.	ID=ncRNA_000417;Name=Plastid-rpl20;rfam_acc=RF04335;clan=-;score=66.3;evalue=0.00043;description=Plastid-rpl20 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	782293478	782293569	66.3	-	.	ID=ncRNA_000418;Name=Plastid-rpl20;rfam_acc=RF04335;clan=-;score=66.3;evalue=0.00043;description=Plastid-rpl20 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	798864642	798864733	66.3	-	.	ID=ncRNA_000419;Name=Plastid-rpl20;rfam_acc=RF04335;clan=-;score=66.3;evalue=0.00043;description=Plastid-rpl20 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	807328164	807328255	66.3	+	.	ID=ncRNA_000420;Name=Plastid-rpl20;rfam_acc=RF04335;clan=-;score=66.3;evalue=0.00043;description=Plastid-rpl20 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	847541714	847541805	66.3	+	.	ID=ncRNA_000421;Name=Plastid-rpl20;rfam_acc=RF04335;clan=-;score=66.3;evalue=0.00043;description=Plastid-rpl20 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	303110912	303110972	55.4	+	.	ID=ncRNA_000422;Name=Plastid-psbN;rfam_acc=RF04353;clan=-;score=55.4;evalue=0.00091;description=Plastid-psbN 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	554504314	554504374	53.3	+	.	ID=ncRNA_000423;Name=Plastid-psbN;rfam_acc=RF04353;clan=-;score=53.3;evalue=0.0028;description=Plastid-psbN 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	37089802	37089862	51.3	+	.	ID=ncRNA_000424;Name=Plastid-psbN;rfam_acc=RF04353;clan=-;score=51.3;evalue=0.0083;description=Plastid-psbN 5UTR RNA
+VANPL_A_00000	cmscan	ncRNA	554540204	554540260	61.1	+	.	ID=ncRNA_000425;Name=Plastid-rps18;rfam_acc=RF04349;clan=-;score=61.1;evalue=0.0089;description=Plastid-rps18 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	695202041	695202097	61.1	+	.	ID=ncRNA_000426;Name=Plastid-rps18;rfam_acc=RF04349;clan=-;score=61.1;evalue=0.0089;description=Plastid-rps18 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	702265275	702265331	61.1	-	.	ID=ncRNA_000427;Name=Plastid-rps18;rfam_acc=RF04349;clan=-;score=61.1;evalue=0.0089;description=Plastid-rps18 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	782293669	782293725	61.1	+	.	ID=ncRNA_000428;Name=Plastid-rps18;rfam_acc=RF04349;clan=-;score=61.1;evalue=0.0089;description=Plastid-rps18 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	798864833	798864889	61.1	+	.	ID=ncRNA_000429;Name=Plastid-rps18;rfam_acc=RF04349;clan=-;score=61.1;evalue=0.0089;description=Plastid-rps18 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	807328008	807328064	61.1	-	.	ID=ncRNA_000430;Name=Plastid-rps18;rfam_acc=RF04349;clan=-;score=61.1;evalue=0.0089;description=Plastid-rps18 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	847541558	847541614	61.1	-	.	ID=ncRNA_000431;Name=Plastid-rps18;rfam_acc=RF04349;clan=-;score=61.1;evalue=0.0089;description=Plastid-rps18 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	46874426	46874482	61.1	+	.	ID=ncRNA_000432;Name=Plastid-rps18;rfam_acc=RF04349;clan=-;score=61.1;evalue=0.0089;description=Plastid-rps18 3UTR RNA
+VANPL_A_00000	cmscan	ncRNA	816748239	816748361	59.4	+	.	ID=ncRNA_000433;Name=Plastid-psbA-1;rfam_acc=RF04342;clan=CL00153;score=59.4;evalue=0.076;description=Plastid-psbA-1 3UTR RNA
+VANPL_A_00000	cmscan	snoRNA	113667582	113667661	31.7	-	.	ID=snoRNA_000434;Name=SNORD36;rfam_acc=RF00049;clan=CL00051;score=31.7;evalue=8.2e+02;description=Small nucleolar RNA SNORD36
+VANPL_A_00000	cmscan	snoRNA	14261580	14261663	30.2	+	.	ID=snoRNA_000435;Name=SNORD36;rfam_acc=RF00049;clan=CL00051;score=30.2;evalue=1.8e+03;description=Small nucleolar RNA SNORD36
