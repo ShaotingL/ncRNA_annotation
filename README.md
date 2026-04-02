@@ -68,8 +68,10 @@ ncRNA_annotation/
 │   ├── HapB_rfam.gff3
 │   └── HapB_cmscan.tbl
 ├── miRNA_results/
-│   ├── D.<species>_miRNA.gff3   # miRNA coordinates (tracked)
-│   ├── D.<species>_cmscan.tbl   # Raw cmscan tblout (tracked)
+│   ├── gff3/                    # Tracked miRNA coordinates
+│   │   └── D.<species>_miRNA.gff3
+│   ├── tbl/                     # Tracked raw cmscan tblout
+│   │   └── D.<species>_cmscan.tbl
 │   ├── D.<species>_mirna.log    # Runtime log (local only; ignored)
 │   └── D.<species>_cmscan_full.out # Full cmscan output (local only; ignored)
 └── CLAUDE.md                    # Detailed protocol and troubleshooting notes
@@ -132,8 +134,8 @@ bash run_mirna_only.sh /path/to/HaplotypeB.fasta HapB 20
 ```
 
 Results are saved to `miRNA_results/`:
-- `{PREFIX}_miRNA.gff3` — genomic coordinates (**tracked in git**)
-- `{PREFIX}_cmscan.tbl` — raw cmscan output (**tracked in git**)
+- `gff3/{PREFIX}_miRNA.gff3` — genomic coordinates (**tracked in git**)
+- `tbl/{PREFIX}_cmscan.tbl` — raw cmscan output (**tracked in git**)
 - `{PREFIX}_mirna.log` — run log (local file; ignored by `.gitignore`)
 - `{PREFIX}_cmscan_full.out` — full Infernal output (local file; ignored)
 
